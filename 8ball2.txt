@@ -1,1217 +1,742 @@
 [
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "Absolutely not, you moron!"
+    "Response": "Your future gleams with promise, akin to a star illuminating the night sky with boundless possibilities."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "In your wildest dreams, loser."
+    "Response": "Navigating life's trials unveils the strength within, akin to a phoenix rising from the ashes of adversity."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Do I look like I care? Guess again."
+    "Response": "Your journey unfolds in the realm of ambiguity, akin to a philosopher contemplating the mysteries of existence."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "Sure, if pigs start flying."
+    "Response": "Embrace the cosmic dance of fate, where each step reveals a new constellation of possibilities."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "As if! Get a grip."
+    "Response": "Contemplate life's storms, for within them lies the crucible of resilience that shapes the human spirit."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Who cares? Certainly not me."
+    "Response": "In the labyrinth of uncertainty, traverse with the wisdom of a sage, for therein lies the path to enlightenment."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "Oh please, in what universe?"
+    "Response": "Witness the celestial mosaic of destiny, where each piece unveils the transcendence of possibility."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "Haha, not a chance in hell."
+    "Response": "Reflect upon the shadows that cloak the path ahead, for within darkness lies the genesis of inner strength."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Seriously? I'm not even listening."
+    "Response": "Contemplate the enigma of the journey, akin to a philosopher unraveling the mysteries of existence."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "Sure thing, in your parallel universe."
+    "Response": "Engage with the cosmic symphony, for within its melody resonates the harmony of your aspirations."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "Dream on, buddy. Dream on."
+    "Response": "Amidst life's tumult, ponder the reservoir of resilience within, akin to a diamond forged under pressure."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "As if I give a damn. Try harder."
+    "Response": "Traverse the labyrinth of uncertainty with the equanimity of a sage, for therein lies the essence of enlightenment."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "Yeah, right. Keep dreaming."
+    "Response": "Embrace the cosmic ballet of fate, where each pirouette unveils the grandeur of your destiny."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "As if the universe cares about your wishes."
+    "Response": "Contemplate the storms of adversity, for within their fury lies the forge of character and resolve."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Is this a joke? Because I'm not laughing."
+    "Response": "In the nebulous expanse of uncertainty, navigate with the serenity of a philosopher, for therein lies wisdom's path."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "Haha, good one. Next joke, please."
+    "Response": "Behold the celestial tapestry of possibility, woven with threads of hope and stardust, awaiting your embrace."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "I'd say 'no', but that would be an insult to 'no'."
+    "Response": "Amidst life's trials, find solace in the crucible of adversity, for therein lies the genesis of inner fortitude."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "You're still talking? Zzz..."
+    "Response": "Traverse the labyrinth of uncertainty with the curiosity of a seeker, for therein lies the essence of enlightenment."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "Sure, if you're living in a fantasy land."
+    "Response": "Engage with the cosmic overture, where each note resonates with the symphony of your dreams."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "Not even if you were the last person on Earth."
+    "Response": "Amidst life's tempests, discover the tranquility within, akin to a lake unruffled by the storms above."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Did you really just ask me that? Grow up."
+    "Response": "In the enigmatic expanse of uncertainty, navigate with the discernment of a sage, for therein lies the path to clarity."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "Yes, if you can make miracles happen."
+    "Response": "Embrace the cosmic choreography of fate, where each movement unveils the elegance of your destiny."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "Not today, not ever. Deal with it."
+    "Response": "Contemplate the crucible of adversity, for within its flames lie the alchemy of resilience."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Wow, you're still here? Impressive... not."
+    "Response": "Traverse the labyrinth of existence with the sagacity of a philosopher, for therein lies the pursuit of truth."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "Are you delusional? The answer is no."
+    "Response": "Witness the celestial crescendo of possibility, where each note resonates with the melody of your aspirations."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "Haha, nice try. But no."
+    "Response": "Amidst life's tribulations, discover the resilience within, akin to a seedling thriving amidst rocky soil."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "You're still asking? Yawn..."
+    "Response": "In the enigmatic expanse of existence, navigate with the wisdom of a sage, for therein lies the essence of understanding."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "Sure, when hell freezes over."
+    "Response": "Engage with the cosmic rhythm of destiny, where each beat echoes the pulse of your dreams."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "Not in this lifetime, or the next."
+    "Response": "Reflect upon the tempests of life, for within their fury lies the forge of inner strength."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Your persistence is almost admirable. Almost."
+    "Response": "Traverse the labyrinth of uncertainty with the tranquility of a philosopher, for therein lies the path to enlightenment."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "If you say so, Captain Obvious."
+    "Response": "Behold the celestial canvas of fate, painted with the hues of possibility and the strokes of your desires."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "I'd rather eat dirt. Hard pass."
+    "Response": "Amidst life's tumult, discover the calm within, akin to a lotus blooming amidst turbulent waters."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Are you done yet? Because I am."
+    "Response": "In the labyrinth of existence, navigate with the insight of a sage, for therein lies the quest for truth."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "Yeah, if you're living in a dream world."
+    "Response": "Embrace the cosmic symphony of destiny, where each note harmonizes with the melody of your journey."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "In your dreams, my friend. In your dreams."
+    "Response": "Contemplate the crucible of adversity, for within its flames lies the crucible of transformation."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Zzz... oh sorry, were you still talking?"
+    "Response": "Traverse the labyrinth of existence with the contemplation of a philosopher, for therein lies the pursuit of wisdom."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "Sure, if you believe in fairy tales."
+    "Response": "Engage with the cosmic dance of fate, where each step leads you closer to the fulfillment of your destiny."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "Ha! Not in a million years."
+    "Response": "Amidst life's trials, discover the strength within, akin to a mighty oak weathering the fiercest of storms."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Wake me up when you're done. Or don't."
+    "Response": "In the enigmatic expanse of existence, navigate with the clarity of a sage, for therein lies the path to enlightenment."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "I'll say yes, when pigs start tap-dancing."
+    "Response": "Behold the celestial tapestry of fate, woven with threads of possibility and the brilliance of your dreams."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "Not happening, champ. Move along."
+    "Response": "Reflect upon the crucible of adversity, for within its flames lies the forge of resilience."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Are you finished yet? Asking for a friend."
+    "Response": "Traverse the labyrinth of existence with the insight of a philosopher, for therein lies the journey to understanding."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "If wishes were horses, then maybe."
+    "Response": "Marvel at the cosmic choreography of destiny, where each step leads you closer to the grand finale of your journey."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "I'd rather eat my own foot. So, no."
+    "Response": "Contemplate the crucible of challenge, for within its depths lie the seeds of transformation."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Oh look, a squirrel! Anything but this conversation."
+    "Response": "Navigate the labyrinth of life with the contemplation of a sage, for therein lies the pursuit of enlightenment."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "Sure, if miracles still happen."
+    "Response": "Embrace the cosmic symphony of existence, where each note resonates with the melody of your soul."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "Haha, good one. But no."
+    "Response": "Amidst life's storms, discover the calm within, akin to a beacon shining amidst the darkest night."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Can you hurry it up? My coffee's getting cold."
+    "Response": "In the enigmatic expanse of existence, navigate with the wisdom of a philosopher, for therein lies the essence of truth."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "If you believe in fairy tales, then yes."
+    "Response": "Witness the celestial dance of destiny, where each movement is a step towards the fulfillment of your aspirations."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "Not even in an alternate universe."
+    "Response": "Reflect upon the crucible of adversity, for within its flames lies the forge of resilience and strength."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Wake me up when you're done. Or don't."
+    "Response": "Traverse the labyrinth of life with the clarity of a sage, for therein lies the journey to self-discovery."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "If you say so. But you're wrong."
+    "Response": "Engage with the cosmic rhythm of fate, where each beat echoes the pulse of your purpose."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "I'm sorry, I thought you were serious."
+    "Response": "Amidst life's challenges, discover the strength within, akin to a phoenix rising from the ashes."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Can you even hear yourself? Yawn."
+    "Response": "In the enigmatic tapestry of existence, navigate with the insight of a philosopher, for therein lies the pursuit of knowledge."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "Maybe in your dreams, sweetie."
+    "Response": "Behold the celestial canvas of destiny, painted with the colors of possibility and the brilliance of your dreams."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "Haha, keep dreaming."
+    "Response": "Contemplate the crucible of adversity, for within its trials lies the forge of inner growth."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Oh look, a fly. More interesting than this."
+    "Response": "Traverse the labyrinth of life with the serenity of a sage, for therein lies the journey to enlightenment."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "Sure, if pigs fly tomorrow."
+    "Response": "Embrace the cosmic symphony of existence, where each note contributes to the melody of your life's opus."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "Not even if you bribe me with chocolate."
+    "Response": "Reflect upon the crucible of challenge, for within its trials lies the crucible of transformation."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Are you still talking? I zoned out."
+    "Response": "Navigate the labyrinth of life with the contemplation of a philosopher, for therein lies the pursuit of understanding."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "If you say so, but you're wrong."
+    "Response": "Marvel at the cosmic dance of destiny, where each step brings you closer to the fulfillment of your destiny."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "Not happening, sunshine. Not happening."
+    "Response": "Amidst life's tribulations, discover the resilience within, akin to a diamond forged under pressure."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Can you hurry up? I have better things to do."
+    "Response": "In the enigmatic expanse of existence, navigate with the wisdom of a sage, for therein lies the path to enlightenment."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "If you believe in fairy tales, then yes."
+    "Response": "Behold the celestial tapestry of fate, woven with threads of possibility and the brilliance of your potential."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "Haha, nice try. But no."
+    "Response": "Contemplate the crucible of adversity, for within its trials lies the forge of strength and resilience."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Oh look, a squirrel! Anything but this conversation."
+    "Response": "Traverse the labyrinth of life with the serenity of a philosopher, for therein lies the journey to self-discovery."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "Sure, if miracles still happen."
+    "Response": "Engage with the cosmic rhythm of existence, where each beat echoes the pulse of your heart's desires."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "Not happening, champ. Move along."
+    "Response": "Amidst life's challenges, discover the fortitude within, akin to a warrior rising to meet the fray."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Are you finished yet? Asking for a friend."
+    "Response": "In the enigmatic tapestry of existence, navigate with the clarity of a sage, for therein lies the pursuit of wisdom."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "If wishes were horses, then maybe."
+    "Response": "Embrace the cosmic symphony of destiny, where each note sings the song of your soul's journey."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "I'd rather eat my own foot. So, no."
+    "Response": "Reflect upon the crucible of adversity, for within its trials lies the forge of resilience and growth."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Can you hurry it up? My coffee's getting cold."
+    "Response": "Navigate the labyrinth of life with the contemplation of a philosopher, for therein lies the pursuit of truth."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "If you believe in fairy tales, then yes."
+    "Response": "Marvel at the celestial dance of fate, where each movement weaves the tapestry of your destiny."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "Not even in an alternate universe."
+    "Response": "Amidst life's trials, discover the resilience within, akin to a phoenix rising from the ashes of despair."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Wake me up when you're done. Or don't."
+    "Response": "In the enigmatic expanse of existence, navigate with the insight of a sage, for therein lies the path to enlightenment."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "If you say so. But you're wrong."
+    "Response": "Behold the cosmic canvas of destiny, painted with the hues of possibility and the brushstrokes of your dreams."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "I'm sorry, I thought you were serious."
+    "Response": "Contemplate the crucible of adversity, for within its trials lies the forge of inner strength and perseverance."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Can you even hear yourself? Yawn."
+    "Response": "Traverse the labyrinth of life with the tranquility of a philosopher, for therein lies the journey to self-discovery."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "Maybe in your dreams, sweetie."
+    "Response": "Engage with the cosmic rhythm of existence, where each beat resonates with the symphony of your aspirations."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "Haha, keep dreaming."
+    "Response": "Amidst life's challenges, discover the resilience within, akin to a mighty oak standing firm against the tempest."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Oh look, a fly. More interesting than this."
+    "Response": "In the enigmatic tapestry of existence, navigate with the clarity of a sage, for therein lies the pursuit of understanding."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "Sure, if pigs fly tomorrow."
+    "Response": "Embrace the cosmic symphony of fate, where each note contributes to the melody of your life's journey."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "Not even if you bribe me with chocolate."
+    "Response": "Reflect upon the crucible of challenge, for within its trials lies the forge of resilience and transformation."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Are you still talking? I zoned out."
+    "Response": "Navigate the labyrinth of life with the contemplation of a philosopher, for therein lies the pursuit of enlightenment."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "If you say so, but you're wrong."
+    "Response": "Marvel at the celestial dance of destiny, where each step leads you closer to the fulfillment of your purpose."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "Not happening, sunshine. Not happening."
+    "Response": "Contemplate the crucible of adversity, for within its trials lies the forge of inner growth and resilience."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Can you hurry up? I have better things to do."
+    "Response": "Traverse the labyrinth of life with the serenity of a sage, for therein lies the journey to self-discovery."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "If you believe in miracles, then sure."
+    "Response": "Behold the cosmic tapestry of fate, woven with threads of possibility and the brilliance of your potential."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "I'm not in the business of granting wishes."
+    "Response": "Amidst life's tribulations, discover the strength within, akin to a diamond forged under the pressure of adversity."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Wake me up when you're done. Or don't."
+    "Response": "In the enigmatic expanse of existence, navigate with the wisdom of a philosopher, for therein lies the path to enlightenment."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "If you say so. But you're mistaken."
+    "Response": "Marvel at the cosmic chaos of destiny, where each twist leads you closer to the abyss of absurdity."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "I'd rather wrestle a bear. No."
+    "Response": "Contemplate the crucible of chaos, for within its depths lies the dark humor of existence."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Can you hear that? It's the sound of no one caring."
+    "Response": "Navigate the labyrinth of laughter with the cynicism of a jester, for therein lies the pursuit of dark enlightenment."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "Sure, if you're living in a fantasy world."
+    "Response": "Embrace the cosmic comedy of existence, where each joke resonates with the absurdity of life."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "The answer is a solid 'nope'."
+    "Response": "Amidst life's tragedies, discover the gallows humor within, akin to a joke whispered at a funeral."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "This conversation is less fun than watching paint dry."
+    "Response": "In the enigmatic carnival of existence, navigate with the sarcasm of a jester, for therein lies the pursuit of dark wisdom."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "If you're into fantasies, then yes."
+    "Response": "Behold the cosmic carnival of fate, where each act is a macabre dance of destiny."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "I'd rather stick pins in my eyes. So, no."
+    "Response": "Reflect upon the crucible of calamity, for within its tragedies lies the dark humor of the universe."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "If only I cared, maybe then I'd answer."
+    "Response": "Traverse the labyrinth of laughter with the mockery of a jester, for therein lies the journey to the shadowy depths of understanding."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "Sure, if I suddenly start caring."
+    "Response": "Engage with the cosmic comedy of fate, where each punchline is a twist in the plot of your existence."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "Not a chance in the fiery depths of Hades."
+    "Response": "Amidst life's horrors, discover the morbid laughter within, akin to a scream swallowed by the void."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Keep talking, maybe one day you'll say something interesting."
+    "Response": "In the enigmatic circus of existence, navigate with the irony of a jester, for therein lies the pursuit of grim enlightenment."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "In your dreams, buddy. Literally."
+    "Response": "Marvel at the cosmic joke of destiny, where each punchline is a revelation of the absurdity of life."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "Not even if you had a million bucks."
+    "Response": "Contemplate the crucible of catastrophe, for within its chaos lies the dark humor of the cosmos."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "This conversation is a waste of time and pixels."
+    "Response": "Navigate the labyrinth of laughter with the satire of a jester, for therein lies the pursuit of sinister wisdom."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "If the moon turns purple tonight, then maybe."
+    "Response": "Embrace the cosmic absurdity of existence, where each laugh is a defiance against the void."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "Nope, not today, not ever."
+    "Response": "Amidst life's tragedies, discover the twisted humor within, akin to a smile carved on a tombstone."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Please stop. Just... stop."
+    "Response": "In the enigmatic theater of existence, navigate with the cynicism of a jester, for therein lies the pursuit of macabre enlightenment."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "Sure, if you're Santa Claus."
+    "Response": "Behold the cosmic carnival of fate, where each jest is a macabre dance of destiny."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "Not in this lifetime, pal."
+    "Response": "Reflect upon the crucible of calamity, for within its tragedies lies the dark humor of the universe."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Do you ever stop talking? Asking for a friend."
+    "Response": "Traverse the labyrinth of laughter with the mockery of a jester, for therein lies the journey to the shadowy depths of understanding."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "I'll say yes when pigs start tap-dancing."
+    "Response": "Engage with the cosmic comedy of fate, where each punchline is a twist in the plot of your existence."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "Get real. That's a solid 'no'."
+    "Response": "Amidst life's horrors, discover the morbid laughter within, akin to a scream swallowed by the void."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Is there a point to this conversation? Because I'm not seeing it."
+    "Response": "In the enigmatic circus of existence, navigate with the irony of a jester, for therein lies the pursuit of grim enlightenment."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "If you believe in fairy tales, then sure."
+    "Response": "Marvel at the cosmic joke of destiny, where each punchline is a revelation of the absurdity of life."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "You're funny. But no."
+    "Response": "Contemplate the crucible of catastrophe, for within its chaos lies the dark humor of the cosmos."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "This is less entertaining than watching paint dry."
+    "Response": "Navigate the labyrinth of laughter with the satire of a jester, for therein lies the pursuit of sinister wisdom."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "Sure, if the world turns upside down."
+    "Response": "Embrace the cosmic absurdity of existence, where each laugh is a defiance against the void."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "Not today, not tomorrow, not ever."
+    "Response": "Amidst life's tragedies, discover the twisted humor within, akin to a smile carved on a tombstone."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Can you stop talking? Please?"
+    "Response": "In the enigmatic theater of existence, navigate with the cynicism of a jester, for therein lies the pursuit of macabre enlightenment."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "If wishes were horses, then maybe."
+    "Response": "Behold the cosmic carnival of fate, where each jest is a macabre dance of destiny."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "Haha, not happening."
+    "Response": "Reflect upon the crucible of calamity, for within its tragedies lies the dark humor of the universe."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Your persistence is admirable. But futile."
+    "Response": "Traverse the labyrinth of laughter with the mockery of a jester, for therein lies the journey to the shadowy depths of understanding."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "I'll say yes when pigs fly."
+    "Response": "Engage with the cosmic comedy of fate, where each punchline is a twist in the plot of your existence."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "Not even if you paid me. Nope."
+    "Response": "Amidst life's horrors, discover the morbid laughter within, akin to a scream swallowed by the void."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Can you get to the point? I have better things to do."
+    "Response": "In the enigmatic circus of existence, navigate with the irony of a jester, for therein lies the pursuit of grim enlightenment."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "Sure, when unicorns roam the Earth."
+    "Response": "Marvel at the cosmic joke of destiny, where each punchline is a revelation of the absurdity of life."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "I'd rather shave my head. So, no."
+    "Response": "Contemplate the crucible of catastrophe, for within its chaos lies the dark humor of the cosmos."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Do I look like I care? Because I don't."
+    "Response": "Navigate the labyrinth of laughter with the satire of a jester, for therein lies the pursuit of sinister wisdom."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "If you say so, but you're wrong."
+    "Response": "Embrace the cosmic absurdity of existence, where each laugh is a defiance against the void."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "Absolutely not, not now, not ever."
+    "Response": "Amidst life's tragedies, discover the twisted humor within, akin to a smile carved on a tombstone."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Yawn... can you speed this up?"
+    "Response": "In the enigmatic theater of existence, navigate with the cynicism of a jester, for therein lies the pursuit of macabre enlightenment."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "Sure, when pigs learn to sing."
+    "Response": "Behold the cosmic carnival of fate, where each jest is a macabre dance of destiny."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "Not happening, my friend. Not happening."
+    "Response": "Reflect upon the crucible of calamity, for within its tragedies lies the dark humor of the universe."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Can you hurry it up? My patience is wearing thin."
+    "Response": "Traverse the labyrinth of laughter with the mockery of a jester, for therein lies the journey to the shadowy depths of understanding."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "If you're into delusions, then sure."
+    "Response": "Engage with the cosmic comedy of fate, where each punchline is a twist in the plot of your existence."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "Haha, nice try. But no."
+    "Response": "Amidst life's horrors, discover the morbid laughter within, akin to a scream swallowed by the void."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Can you wrap this up? My lunch break's almost over."
+    "Response": "In the enigmatic circus of existence, navigate with the irony of a jester, for therein lies the pursuit of grim enlightenment."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "Sure, if you're living in a dream world."
+    "Response": "Marvel at the cosmic joke of destiny, where each punchline is a revelation of the absurdity of life."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "In your dreams, pal. In your dreams."
+    "Response": "Contemplate the crucible of catastrophe, for within its chaos lies the dark humor of the cosmos."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Wake me up when you're done. Or don't."
+    "Response": "Navigate the labyrinth of laughter with the satire of a jester, for therein lies the pursuit of sinister wisdom."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "If you believe in fairy tales, then yes."
+    "Response": "Embrace the cosmic absurdity of existence, where each laugh is a defiance against the void."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "Not happening, champ. Move along."
+    "Response": "Amidst life's tragedies, discover the twisted humor within, akin to a smile carved on a tombstone."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Are you finished yet? Asking for a friend."
+    "Response": "In the enigmatic theater of existence, navigate with the cynicism of a jester, for therein lies the pursuit of macabre enlightenment."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "If wishes were horses, then maybe."
+    "Response": "Behold the cosmic carnival of fate, where each jest is a macabre dance of destiny."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Negative",
-    "Response": "I'd rather eat my own foot. So, no."
+    "Response": "Reflect upon the crucible of calamity, for within its tragedies lies the dark humor of the universe."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Can you hurry it up? My coffee's getting cold."
+    "Response": "Traverse the labyrinth of laughter with the mockery of a jester, for therein lies the journey to the shadowy depths of understanding."
   },
   {
-    "Voice": "Your Answer",
+    "Your Answer": "Your Answer",
     "Mood": "Positive",
-    "Response": "If you believe in fairy tales, then yes."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Negative",
-    "Response": "Not even in an alternate universe."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Wake me up when you're done. Or don't."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Positive",
-    "Response": "If you say so. But you're wrong."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Negative",
-    "Response": "I'm sorry, I thought you were serious."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Can you even hear yourself? Yawn."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Positive",
-    "Response": "Maybe in your dreams, sweetie."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Negative",
-    "Response": "Haha, keep dreaming."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Oh look, a fly. More interesting than this."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Positive",
-    "Response": "Sure, if pigs fly tomorrow."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Negative",
-    "Response": "Not even if you bribe me with chocolate."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Are you still talking? I zoned out."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Positive",
-    "Response": "If you say so, but you're wrong."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Negative",
-    "Response": "Not happening, sunshine. Not happening."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Can you hurry up? I have better things to do."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Positive",
-    "Response": "If you believe in miracles, then sure."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Negative",
-    "Response": "I'm not in the business of granting wishes."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Wake me up when you're done. Or don't."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Positive",
-    "Response": "If you say so. But you're mistaken."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Negative",
-    "Response": "I'd rather wrestle a bear. No."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Can you hear that? It's the sound of no one caring."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Positive",
-    "Response": "Sure, if you're living in a fantasy world."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Negative",
-    "Response": "The answer is a solid 'nope'."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "This conversation is less fun than watching paint dry."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Positive",
-    "Response": "If you're into fantasies, then yes."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Negative",
-    "Response": "I'd rather stick pins in my eyes. So, no."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "If only I cared, maybe then I'd answer."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Positive",
-    "Response": "Sure, if I suddenly start caring."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Negative",
-    "Response": "Not a chance in the fiery depths of Hades."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Keep talking, maybe one day you'll say something interesting."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Positive",
-    "Response": "In your dreams, buddy. Literally."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Negative",
-    "Response": "Not even if you had a million bucks."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "This conversation is a waste of time and pixels."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Positive",
-    "Response": "If the moon turns purple tonight, then maybe."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Negative",
-    "Response": "Nope, not today, not ever."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Please stop. Just... stop."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Positive",
-    "Response": "Sure, if you're Santa Claus."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Negative",
-    "Response": "Not in this lifetime, pal."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Do you ever stop talking? Asking for a friend."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Positive",
-    "Response": "I'll say yes when pigs start tap-dancing."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Negative",
-    "Response": "Get real. That's a solid 'no'."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Is there a point to this conversation? Because I'm not seeing it."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Positive",
-    "Response": "If you believe in miracles, then sure."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Negative",
-    "Response": "You're funny. But no."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "This is less entertaining than watching paint dry."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Positive",
-    "Response": "Sure, if the world turns upside down."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Negative",
-    "Response": "Not today, not tomorrow, not ever."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Can you stop talking? Please?"
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Positive",
-    "Response": "If wishes were horses, then maybe."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Negative",
-    "Response": "Haha, not happening."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Your persistence is admirable. But futile."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Positive",
-    "Response": "I'll say yes when pigs fly."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Negative",
-    "Response": "Not even if you paid me. Nope."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Can you get to the point? I have better things to do."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Positive",
-    "Response": "Sure, when unicorns roam the Earth."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Negative",
-    "Response": "I'd rather shave my head. So, no."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Do I look like I care? Because I don't."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Positive",
-    "Response": "If you say so, but you're wrong."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Negative",
-    "Response": "Absolutely not, not now, not ever."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Yawn... can you speed this up?"
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Positive",
-    "Response": "Sure, when pigs learn to sing."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Negative",
-    "Response": "Not happening, my friend. Not happening."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Can you hurry it up? My patience is wearing thin."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Positive",
-    "Response": "If you're into delusions, then sure."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Negative",
-    "Response": "Haha, nice try. But no."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Can you wrap this up? My lunch break's almost over."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Positive",
-    "Response": "Sure, if you're living in a dream world."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Negative",
-    "Response": "In your dreams, pal. In your dreams."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Wake me up when you're done. Or don't."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Positive",
-    "Response": "If you believe in fairy tales, then yes."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Negative",
-    "Response": "Not happening, champ. Move along."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Are you finished yet? Asking for a friend."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Positive",
-    "Response": "If wishes were horses, then maybe."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Negative",
-    "Response": "I'd rather eat my own foot. So, no."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Can you hurry it up? My coffee's getting cold."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Positive",
-    "Response": "If you believe in fairy tales, then yes."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Negative",
-    "Response": "Not even in an alternate universe."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Wake me up when you're done. Or don't."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Positive",
-    "Response": "If you say so. But you're wrong."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Negative",
-    "Response": "I'm sorry, I thought you were serious."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Can you even hear yourself? Yawn."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Positive",
-    "Response": "Maybe in your dreams, sweetie."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Negative",
-    "Response": "Haha, keep dreaming."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Oh look, a fly. More interesting than this."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Positive",
-    "Response": "Sure, if pigs fly tomorrow."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Negative",
-    "Response": "Not even if you bribe me with chocolate."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Are you still talking? I zoned out."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Positive",
-    "Response": "If you say so, but you're wrong."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Negative",
-    "Response": "Not happening, sunshine. Not happening."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Can you hurry up? I have better things to do."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Positive",
-    "Response": "If you believe in miracles, then sure."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Negative",
-    "Response": "I'm not in the business of granting wishes."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Wake me up when you're done. Or don't."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Positive",
-    "Response": "If you say so. But you're mistaken."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Negative",
-    "Response": "I'd rather wrestle a bear. No."
-  },
-  {
-    "Voice": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Can you hear that? It's the sound of no one caring."
+    "Response": "Engage with the cosmic comedy of fate, where each punchline is a twist in the plot of your existence."
   }
 ]
