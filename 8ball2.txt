@@ -1,742 +1,3462 @@
 [
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Positive",
-    "Response": "Your future gleams with promise, akin to a star illuminating the night sky with boundless possibilities."
-  },
-  {
-    "Your Answer": "Your Answer",
-    "Mood": "Negative",
-    "Response": "Navigating life's trials unveils the strength within, akin to a phoenix rising from the ashes of adversity."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Neutral",
-    "Response": "Your journey unfolds in the realm of ambiguity, akin to a philosopher contemplating the mysteries of existence."
+    "Response": "Your chances are as slim as finding a vegetarian at a barbecue."
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Embrace the cosmic dance of fate, where each step reveals a new constellation of possibilities."
+    "Response": "Outlook is darker than a black hole at midnight. Good luck with that!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Contemplate life's storms, for within them lies the crucible of resilience that shapes the human spirit."
+    "Response": "The odds are worse than finding a needle in a haystack... in space."
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Neutral",
-    "Response": "In the labyrinth of uncertainty, traverse with the wisdom of a sage, for therein lies the path to enlightenment."
+    "Response": "The future looks as bright as a solar eclipse on a cloudy day."
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Witness the celestial mosaic of destiny, where each piece unveils the transcendence of possibility."
+    "Response": "As likely as convincing a cat to take up water polo professionally. Dive in!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The chances are as high as winning the lottery without buying a ticket."
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Reflect upon the shadows that cloak the path ahead, for within darkness lies the genesis of inner strength."
+    "Response": "The outlook is as bleak as a flashlight with no batteries."
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Contemplate the enigma of the journey, akin to a philosopher unraveling the mysteries of existence."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Engage with the cosmic symphony, for within its melody resonates the harmony of your aspirations."
+    "Response": "As bright as a firefly's disco party. Glow on!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The chances are like finding a polar bear in the Sahara. Good luck!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Amidst life's tumult, ponder the reservoir of resilience within, akin to a diamond forged under pressure."
+    "Response": "The odds are slimmer than a runway model on a diet."
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Traverse the labyrinth of uncertainty with the equanimity of a sage, for therein lies the essence of enlightenment."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Embrace the cosmic ballet of fate, where each pirouette unveils the grandeur of your destiny."
+    "Response": "As probable as winning a staring contest with a statue. Keep your eyes open!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The future's as bright as a one-watt light bulb. Shine on!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Contemplate the storms of adversity, for within their fury lies the forge of character and resolve."
+    "Response": "The outlook is darker than a cave at midnight. Bring a flashlight!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "In the nebulous expanse of uncertainty, navigate with the serenity of a philosopher, for therein lies wisdom's path."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Behold the celestial tapestry of possibility, woven with threads of hope and stardust, awaiting your embrace."
+    "Response": "As likely as finding a pot of gold at the end of a double rainbow. Chase it!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The chances are as slim as a smartphone without a battery. Charge up!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Amidst life's trials, find solace in the crucible of adversity, for therein lies the genesis of inner fortitude."
+    "Response": "The odds are worse than a snowball's chance in a furnace."
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Traverse the labyrinth of uncertainty with the curiosity of a seeker, for therein lies the essence of enlightenment."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Engage with the cosmic overture, where each note resonates with the symphony of your dreams."
+    "Response": "As probable as convincing a toddler to eat broccoli. Give it a try!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The future looks as bright as a candle in a hurricane. Hold on tight!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Amidst life's tempests, discover the tranquility within, akin to a lake unruffled by the storms above."
+    "Response": "The outlook is dimmer than a broken light bulb. Shed some light on it!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "In the enigmatic expanse of uncertainty, navigate with the discernment of a sage, for therein lies the path to clarity."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Embrace the cosmic choreography of fate, where each movement unveils the elegance of your destiny."
+    "Response": "As likely as winning a game of chess against a pigeon. Checkmate!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The chances are like finding a diamond in a landfill. Keep digging!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Contemplate the crucible of adversity, for within its flames lie the alchemy of resilience."
+    "Response": "The odds are slimmer than a paper airplane in a hurricane."
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Traverse the labyrinth of existence with the sagacity of a philosopher, for therein lies the pursuit of truth."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Witness the celestial crescendo of possibility, where each note resonates with the melody of your aspirations."
+    "Response": "As probable as convincing a teenager to clean their room. Good luck!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The future's as bright as a candle in the wind. Hold steady!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Amidst life's tribulations, discover the resilience within, akin to a seedling thriving amidst rocky soil."
+    "Response": "The outlook is darker than a black cat in a coal mine. Watch your step!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "In the enigmatic expanse of existence, navigate with the wisdom of a sage, for therein lies the essence of understanding."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Engage with the cosmic rhythm of destiny, where each beat echoes the pulse of your dreams."
+    "Response": "As likely as finding a four-leaf clover in a field of grass. Keep searching!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The chances are as slim as finding a needle in a stack of needles."
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Reflect upon the tempests of life, for within their fury lies the forge of inner strength."
+    "Response": "The odds are worse than a snowman in summer. Melted away!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Traverse the labyrinth of uncertainty with the tranquility of a philosopher, for therein lies the path to enlightenment."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Behold the celestial canvas of fate, painted with the hues of possibility and the strokes of your desires."
+    "Response": "As probable as convincing a dog to take a bath. Roll with it!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The future looks as bright as a star in a cloudy night sky. Twinkle on!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Amidst life's tumult, discover the calm within, akin to a lotus blooming amidst turbulent waters."
+    "Response": "The outlook is dimmer than a broken compass. Lost in direction!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "In the labyrinth of existence, navigate with the insight of a sage, for therein lies the quest for truth."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Embrace the cosmic symphony of destiny, where each note harmonizes with the melody of your journey."
+    "Response": "As likely as winning a debate with a toddler. Talk on!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The chances are like finding a pearl in an oyster. Dive deep!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Contemplate the crucible of adversity, for within its flames lies the crucible of transformation."
+    "Response": "The odds are slimmer than a beanpole. Stretch your luck!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Traverse the labyrinth of existence with the contemplation of a philosopher, for therein lies the pursuit of wisdom."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Engage with the cosmic dance of fate, where each step leads you closer to the fulfillment of your destiny."
+    "Response": "As probable as convincing a cat that it's a dog. Paws for thought!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The future's as bright as a flashlight with fresh batteries. Shine bright!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Amidst life's trials, discover the strength within, akin to a mighty oak weathering the fiercest of storms."
+    "Response": "The outlook is darker than a moonless night. Lost in the shadows!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "In the enigmatic expanse of existence, navigate with the clarity of a sage, for therein lies the path to enlightenment."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Behold the celestial tapestry of fate, woven with threads of possibility and the brilliance of your dreams."
+    "Response": "As likely as convincing a fish to climb a tree. Keep swimming!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The chances are as slim as finding a polar bear in the jungle."
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Reflect upon the crucible of adversity, for within its flames lies the forge of resilience."
+    "Response": "The odds are worse than a snowball in a sauna. Melt away!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Traverse the labyrinth of existence with the insight of a philosopher, for therein lies the journey to understanding."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Marvel at the cosmic choreography of destiny, where each step leads you closer to the grand finale of your journey."
+    "Response": "As probable as convincing a teenager to put down their phone. Text on!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The future looks as bright as a lighthouse in a storm. Guide the way!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Contemplate the crucible of challenge, for within its depths lie the seeds of transformation."
+    "Response": "The outlook is dimmer than a broken light switch. Flickering away!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Navigate the labyrinth of life with the contemplation of a sage, for therein lies the pursuit of enlightenment."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Embrace the cosmic symphony of existence, where each note resonates with the melody of your soul."
+    "Response": "As likely as winning a staring contest with a statue. Blink on!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The chances are like finding a treasure map without an X. Search wisely!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Amidst life's storms, discover the calm within, akin to a beacon shining amidst the darkest night."
+    "Response": "The odds are slimmer than a pencil after a pop quiz. Erased away!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "In the enigmatic expanse of existence, navigate with the wisdom of a philosopher, for therein lies the essence of truth."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Witness the celestial dance of destiny, where each movement is a step towards the fulfillment of your aspirations."
+    "Response": "As probable as convincing a bear to wear a tutu. Dance on!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The future's as bright as a firefly in the night sky. Illuminate!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Reflect upon the crucible of adversity, for within its flames lies the forge of resilience and strength."
+    "Response": "The outlook is darker than a bat in a cave. Lost in the darkness!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Traverse the labyrinth of life with the clarity of a sage, for therein lies the journey to self-discovery."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Engage with the cosmic rhythm of fate, where each beat echoes the pulse of your purpose."
+    "Response": "As likely as convincing a cat to take up ballet. Tip-toe on!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The chances are as slim as finding a polar bear in the desert."
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Amidst life's challenges, discover the strength within, akin to a phoenix rising from the ashes."
+    "Response": "The odds are worse than a snowflake in a volcano. Melt away!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "In the enigmatic tapestry of existence, navigate with the insight of a philosopher, for therein lies the pursuit of knowledge."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Behold the celestial canvas of destiny, painted with the colors of possibility and the brilliance of your dreams."
+    "Response": "As probable as convincing a teenager to wake up early. Rise and shine!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The future looks as bright as a candle in the rain. Keep dry!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Contemplate the crucible of adversity, for within its trials lies the forge of inner growth."
+    "Response": "The outlook is dimmer than a broken flashlight. Lost in the dark!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Traverse the labyrinth of life with the serenity of a sage, for therein lies the journey to enlightenment."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Embrace the cosmic symphony of existence, where each note contributes to the melody of your life's opus."
+    "Response": "As likely as winning a staring contest with a mirror. Reflect on!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The chances are like finding a diamond in a snowstorm. Chill out!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Reflect upon the crucible of challenge, for within its trials lies the crucible of transformation."
+    "Response": "The odds are slimmer than a shadow in the dark. Fading away!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Navigate the labyrinth of life with the contemplation of a philosopher, for therein lies the pursuit of understanding."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Marvel at the cosmic dance of destiny, where each step brings you closer to the fulfillment of your destiny."
+    "Response": "As probable as convincing a cat to swim laps. Dive in!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The future's as bright as a glowworm in a cave. Illuminate!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Amidst life's tribulations, discover the resilience within, akin to a diamond forged under pressure."
+    "Response": "The outlook is darker than a moonless midnight. Lost in the night!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "In the enigmatic expanse of existence, navigate with the wisdom of a sage, for therein lies the path to enlightenment."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Behold the celestial tapestry of fate, woven with threads of possibility and the brilliance of your potential."
+    "Response": "As likely as convincing a fish to climb a tree. Keep swimming!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The chances are as slim as finding a polar bear in the jungle."
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Contemplate the crucible of adversity, for within its trials lies the forge of strength and resilience."
+    "Response": "The odds are worse than a snowball in a sauna. Melt away!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Traverse the labyrinth of life with the serenity of a philosopher, for therein lies the journey to self-discovery."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Engage with the cosmic rhythm of existence, where each beat echoes the pulse of your heart's desires."
+    "Response": "As probable as convincing a teenager to put down their phone. Text on!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The future looks as bright as a lighthouse in a storm. Guide the way!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Amidst life's challenges, discover the fortitude within, akin to a warrior rising to meet the fray."
+    "Response": "The outlook is dimmer than a broken light switch. Flickering away!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "In the enigmatic tapestry of existence, navigate with the clarity of a sage, for therein lies the pursuit of wisdom."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Embrace the cosmic symphony of destiny, where each note sings the song of your soul's journey."
+    "Response": "As likely as winning a staring contest with a statue. Blink on!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The chances are like finding a treasure map without an X. Search wisely!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Reflect upon the crucible of adversity, for within its trials lies the forge of resilience and growth."
+    "Response": "The odds are slimmer than a pencil after a pop quiz. Erased away!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Navigate the labyrinth of life with the contemplation of a philosopher, for therein lies the pursuit of truth."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Marvel at the celestial dance of fate, where each movement weaves the tapestry of your destiny."
+    "Response": "As probable as convincing a bear to wear a tutu. Dance on!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The future's as bright as a firefly in the night sky. Illuminate!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Amidst life's trials, discover the resilience within, akin to a phoenix rising from the ashes of despair."
+    "Response": "The outlook is darker than a bat in a cave. Lost in the darkness!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "In the enigmatic expanse of existence, navigate with the insight of a sage, for therein lies the path to enlightenment."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Behold the cosmic canvas of destiny, painted with the hues of possibility and the brushstrokes of your dreams."
+    "Response": "As likely as convincing a cat to take up ballet. Tip-toe on!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The chances are as slim as finding a polar bear in the desert."
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Contemplate the crucible of adversity, for within its trials lies the forge of inner strength and perseverance."
+    "Response": "The odds are worse than a snowflake in a volcano. Melt away!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Traverse the labyrinth of life with the tranquility of a philosopher, for therein lies the journey to self-discovery."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Engage with the cosmic rhythm of existence, where each beat resonates with the symphony of your aspirations."
+    "Response": "As probable as convincing a teenager to wake up early. Rise and shine!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The future looks as bright as a candle in the rain. Keep dry!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Amidst life's challenges, discover the resilience within, akin to a mighty oak standing firm against the tempest."
+    "Response": "The outlook is dimmer than a broken flashlight. Lost in the dark!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "In the enigmatic tapestry of existence, navigate with the clarity of a sage, for therein lies the pursuit of understanding."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Embrace the cosmic symphony of fate, where each note contributes to the melody of your life's journey."
+    "Response": "As likely as winning a staring contest with a mirror. Reflect on!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The chances are like finding a diamond in a snowstorm. Chill out!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Reflect upon the crucible of challenge, for within its trials lies the forge of resilience and transformation."
+    "Response": "The odds are slimmer than a shadow in the dark. Fading away!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Navigate the labyrinth of life with the contemplation of a philosopher, for therein lies the pursuit of enlightenment."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Marvel at the celestial dance of destiny, where each step leads you closer to the fulfillment of your purpose."
+    "Response": "As probable as convincing a cat to swim laps. Dive in!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The future's as bright as a glowworm in a cave. Illuminate!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Contemplate the crucible of adversity, for within its trials lies the forge of inner growth and resilience."
+    "Response": "The outlook is darker than a moonless midnight. Lost in the night!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Traverse the labyrinth of life with the serenity of a sage, for therein lies the journey to self-discovery."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Behold the cosmic tapestry of fate, woven with threads of possibility and the brilliance of your potential."
+    "Response": "As likely as convincing a fish to climb a tree. Keep swimming!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The chances are as slim as finding a unicorn at a dog show."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "Outlook is brighter than a supernova. Embrace the glow!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Amidst life's tribulations, discover the strength within, akin to a diamond forged under the pressure of adversity."
+    "Response": "The odds are worse than finding a needle in a haystack. Lost in the shuffle!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Neutral",
-    "Response": "In the enigmatic expanse of existence, navigate with the wisdom of a philosopher, for therein lies the path to enlightenment."
+    "Response": "The future looks as bright as a shooting star. Make a wish!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Marvel at the cosmic chaos of destiny, where each twist leads you closer to the abyss of absurdity."
+    "Response": "As likely as convincing a cat to walk on a leash. Take the lead!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The chances are like finding a pearl in an oyster. Dive deep!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Contemplate the crucible of chaos, for within its depths lies the dark humor of existence."
+    "Response": "The outlook is darker than a black hole. Lost in space!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Navigate the labyrinth of laughter with the cynicism of a jester, for therein lies the pursuit of dark enlightenment."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Embrace the cosmic comedy of existence, where each joke resonates with the absurdity of life."
+    "Response": "As probable as teaching a goldfish to play fetch. Throw the ball!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The future's as bright as a candle in the wind. Hold steady!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Amidst life's tragedies, discover the gallows humor within, akin to a joke whispered at a funeral."
+    "Response": "The odds are slimmer than a paper airplane. Take flight!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "In the enigmatic carnival of existence, navigate with the sarcasm of a jester, for therein lies the pursuit of dark wisdom."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Behold the cosmic carnival of fate, where each act is a macabre dance of destiny."
+    "Response": "As likely as convincing a teenager to clean their room. Good luck!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The chances are as slim as finding a needle in a haystack. Search carefully!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Reflect upon the crucible of calamity, for within its tragedies lies the dark humor of the universe."
+    "Response": "The odds are worse than winning the lottery. Roll the dice!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Traverse the labyrinth of laughter with the mockery of a jester, for therein lies the journey to the shadowy depths of understanding."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Engage with the cosmic comedy of fate, where each punchline is a twist in the plot of your existence."
+    "Response": "As probable as convincing a bear to ride a unicycle. Keep balanced!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The future looks as bright as a candle in the rain. Stay dry!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Amidst life's horrors, discover the morbid laughter within, akin to a scream swallowed by the void."
+    "Response": "The outlook is dimmer than a blackout. Light the way!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "In the enigmatic circus of existence, navigate with the irony of a jester, for therein lies the pursuit of grim enlightenment."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Marvel at the cosmic joke of destiny, where each punchline is a revelation of the absurdity of life."
+    "Response": "As likely as convincing a fish to climb a tree. Aim high!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The chances are like finding a diamond in a coal mine. Dig deep!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Contemplate the crucible of catastrophe, for within its chaos lies the dark humor of the cosmos."
+    "Response": "The odds are slimmer than a twig in a hurricane. Hold on tight!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Navigate the labyrinth of laughter with the satire of a jester, for therein lies the pursuit of sinister wisdom."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Embrace the cosmic absurdity of existence, where each laugh is a defiance against the void."
+    "Response": "As probable as teaching a cat to bark. Woof woof!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The future's as bright as a glowworm. Shine on!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Amidst life's tragedies, discover the twisted humor within, akin to a smile carved on a tombstone."
+    "Response": "The outlook is darker than a moonless night. Lost in the dark!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "In the enigmatic theater of existence, navigate with the cynicism of a jester, for therein lies the pursuit of macabre enlightenment."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Behold the cosmic carnival of fate, where each jest is a macabre dance of destiny."
+    "Response": "As likely as convincing a penguin to fly. Spread your wings!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The chances are as slim as finding a snowflake in a blizzard. Bundle up!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Reflect upon the crucible of calamity, for within its tragedies lies the dark humor of the universe."
+    "Response": "The odds are worse than finding a needle in a stack of needles. Lost in the shuffle!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Traverse the labyrinth of laughter with the mockery of a jester, for therein lies the journey to the shadowy depths of understanding."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Engage with the cosmic comedy of fate, where each punchline is a twist in the plot of your existence."
+    "Response": "As probable as teaching a tortoise to sprint. Slow and steady wins the race!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The future looks as bright as a star in the night sky. Twinkle on!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Amidst life's horrors, discover the morbid laughter within, akin to a scream swallowed by the void."
+    "Response": "The outlook is dimmer than a broken bulb. Shed some light!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "In the enigmatic circus of existence, navigate with the irony of a jester, for therein lies the pursuit of grim enlightenment."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Marvel at the cosmic joke of destiny, where each punchline is a revelation of the absurdity of life."
+    "Response": "As likely as convincing a toddler to eat their vegetables. Veg out!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The chances are like finding a pearl in a clam. Dive deep!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Contemplate the crucible of catastrophe, for within its chaos lies the dark humor of the cosmos."
+    "Response": "The odds are slimmer than a hairline fracture. Hold it together!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Navigate the labyrinth of laughter with the satire of a jester, for therein lies the pursuit of sinister wisdom."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Embrace the cosmic absurdity of existence, where each laugh is a defiance against the void."
+    "Response": "As probable as convincing a cow to jump over the moon. Shoot for the stars!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The future's as bright as a glowstick. Shine bright!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Amidst life's tragedies, discover the twisted humor within, akin to a smile carved on a tombstone."
+    "Response": "The outlook is darker than a shadow at midnight. Find the light!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "In the enigmatic theater of existence, navigate with the cynicism of a jester, for therein lies the pursuit of macabre enlightenment."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Behold the cosmic carnival of fate, where each jest is a macabre dance of destiny."
+    "Response": "As likely as convincing a snail to break the land speed record. Slow and steady wins the race!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The chances are as slim as finding a diamond in a haystack. Search carefully!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Reflect upon the crucible of calamity, for within its tragedies lies the dark humor of the universe."
+    "Response": "The odds are worse than finding a grain of sand on the beach. Lost in the tide!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Traverse the labyrinth of laughter with the mockery of a jester, for therein lies the journey to the shadowy depths of understanding."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Engage with the cosmic comedy of fate, where each punchline is a twist in the plot of your existence."
+    "Response": "As probable as convincing a cat to chase its own tail. Spin around!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The future looks as bright as a lighthouse in a storm. Guide the way!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Amidst life's horrors, discover the morbid laughter within, akin to a scream swallowed by the void."
+    "Response": "The outlook is dimmer than a solar eclipse. Find the light!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "In the enigmatic circus of existence, navigate with the irony of a jester, for therein lies the pursuit of grim enlightenment."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Marvel at the cosmic joke of destiny, where each punchline is a revelation of the absurdity of life."
+    "Response": "As likely as convincing a fish to ride a bicycle. Pedal on!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The chances are like finding a treasure map without an X. Search wisely!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Contemplate the crucible of catastrophe, for within its chaos lies the dark humor of the cosmos."
+    "Response": "The odds are slimmer than a shadow in the dark. Light it up!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Navigate the labyrinth of laughter with the satire of a jester, for therein lies the pursuit of sinister wisdom."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Embrace the cosmic absurdity of existence, where each laugh is a defiance against the void."
+    "Response": "As probable as teaching a penguin to tap dance. Shuffle on!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The future's as bright as a rainbow after a storm. Look up!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Amidst life's tragedies, discover the twisted humor within, akin to a smile carved on a tombstone."
+    "Response": "The outlook is darker than a power outage. Flip the switch!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "In the enigmatic theater of existence, navigate with the cynicism of a jester, for therein lies the pursuit of macabre enlightenment."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Behold the cosmic carnival of fate, where each jest is a macabre dance of destiny."
+    "Response": "As likely as convincing a squirrel to bungee jump. Take the leap!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The chances are as slim as finding a snowflake in the desert. Keep cool!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Reflect upon the crucible of calamity, for within its tragedies lies the dark humor of the universe."
+    "Response": "The odds are worse than finding a needle in a haystack. Lost in the hay!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Traverse the labyrinth of laughter with the mockery of a jester, for therein lies the journey to the shadowy depths of understanding."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Engage with the cosmic comedy of fate, where each punchline is a twist in the plot of your existence."
+    "Response": "As probable as teaching a bear to juggle. Keep the balls in the air!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The future looks as bright as a solar-powered flashlight. Shine on!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Amidst life's horrors, discover the morbid laughter within, akin to a scream swallowed by the void."
+    "Response": "The outlook is dimmer than a rainy day. Find the sunshine!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "In the enigmatic circus of existence, navigate with the irony of a jester, for therein lies the pursuit of grim enlightenment."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Marvel at the cosmic joke of destiny, where each punchline is a revelation of the absurdity of life."
+    "Response": "As likely as convincing a cat to take a bubble bath. Lather up!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The chances are like finding a diamond in a sandcastle. Dig deep!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Contemplate the crucible of catastrophe, for within its chaos lies the dark humor of the cosmos."
+    "Response": "The odds are slimmer than a shadow at dusk. Light up the night!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Navigate the labyrinth of laughter with the satire of a jester, for therein lies the pursuit of sinister wisdom."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Embrace the cosmic absurdity of existence, where each laugh is a defiance against the void."
+    "Response": "As probable as teaching a tortoise to break the sound barrier. Slow and steady wins the race!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The future's as bright as a glowworm in a cave. Illuminate the darkness!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Amidst life's tragedies, discover the twisted humor within, akin to a smile carved on a tombstone."
+    "Response": "The outlook is darker than a solar eclipse. Find the light at the end of the tunnel!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "In the enigmatic theater of existence, navigate with the cynicism of a jester, for therein lies the pursuit of macabre enlightenment."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Behold the cosmic carnival of fate, where each jest is a macabre dance of destiny."
+    "Response": "As likely as convincing a fish to climb a mountain. Reach new heights!"
   },
   {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The chances are as slim as finding a pearl in a peanut. Crack open possibilities!"
+  },
+  {
+    "Voice": "Your Answer",
     "Mood": "Negative",
-    "Response": "Reflect upon the crucible of calamity, for within its tragedies lies the dark humor of the universe."
+    "Response": "The odds are worse than finding a grain of sand on a beach. Lost in the waves!"
   },
   {
-    "Your Answer": "Your Answer",
-    "Mood": "Neutral",
-    "Response": "Traverse the labyrinth of laughter with the mockery of a jester, for therein lies the journey to the shadowy depths of understanding."
-  },
-  {
-    "Your Answer": "Your Answer",
+    "Voice": "Your Answer",
     "Mood": "Positive",
-    "Response": "Engage with the cosmic comedy of fate, where each punchline is a twist in the plot of your existence."
+    "Response": "As probable as teaching a penguin to play the saxophone. Jazz it up!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The future looks as bright as a star in the night sky. Twinkle on!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "The outlook is dimmer than a candle in the wind. Light the flame!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The chances are as likely as finding a penny face-up. Luck's on your side!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "Outlook's clearer than a freshly Windexed window. Crystal vision!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "The odds are slimmer than a snake's waistline. Squeeze out of it!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The future's as bright as a firefly's glow. Illuminate the path!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As probable as teaching a parrot to rap. Drop the beat!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "The odds are as good as finding a needle in a haystack. Good luck pricking your finger!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as a cat fetching a stick. You're in for a surprise!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Chances are slim, like winning the lottery in a parallel universe. Better luck haunting!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding buried treasure in a graveyard. Keep digging!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The future's brighter than a vampire's smile. Sink your teeth into it!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As probable as winning an argument with a cat. Prepare for scratches!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as good as finding a snowball in hell. Embrace the warmth!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as teaching a goldfish to sing opera. Prepare for a standing ovation!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Slimmer than a vampire's reflection. Better avoid mirrors!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a ghost in a cemetery. Keep searching!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The future's brighter than a black hole. Light up the cosmos!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As probable as a ghost winning hide and seek. You're not alone!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as good as finding a unicorn in rush hour traffic. Watch for horns!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as a zombie winning a dance contest. Bust a move!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Slimmer than a skeleton's waistline. Time for a diet!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding Atlantis in a puddle. Dive in anyway!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The future's brighter than a haunted house on fire. Blaze your trail!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As probable as a ghost having a midlife crisis. Boo-hoo!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as good as finding Bigfoot on Tinder. Swipe right!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as winning a staring contest with Medusa. Lock eyes and win!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Slimmer than a ghost's chances of getting a suntan. Stay pale!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a leprechaun's pot of gold. Keep chasing rainbows!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The future's brighter than a witch's cauldron at midnight. Stir up some magic!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As probable as a vampire sunbathing at high noon. Watch for ashes!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as good as finding a werewolf at a dog show. Howling success!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as a mummy winning a marathon. Unwrap the victory!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Slimmer than a zombie's chances of winning a beauty pageant. Dead last!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a genie in a bottle of ketchup. Make a wish!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The future's brighter than a poltergeist's glow stick party. Shine on!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As probable as a ghost being the life of the party. Join the afterlife!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as good as finding a unicorn riding a skateboard. Glide to victory!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as a banshee hitting the high notes. Scream for joy!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Slimmer than a skeleton's chances of winning a limbo contest. Stay flexible!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a mermaid in a kiddie pool. Dive deep!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The future's brighter than a haunted lighthouse. Guide the way!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As probable as a ghost winning a staring contest. Blink and you'll miss it!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as good as finding a unicorn in a petting zoo. Patience pays off!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as a zombie finding true love. Decay together!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Slimmer than a vampire's chances of becoming a sun worshipper. Stay in the dark!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a ghostbuster at a seance. Call in the experts!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The future's brighter than a ghost town during a power outage. Illuminate the path!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As probable as a zombie winning a beauty pageant. Dead gorgeous!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as good as finding a leprechaun's pot of gold at the end of a rainbow. Lucky find!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as a witch finding the perfect broomstick. Fly high!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Slimmer than a skeleton's chances of a full-body tan. Stay in the shade!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a genie in a bottle of diet soda. Make a wish and watch your calories!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The future's brighter than a haunted disco ball. Dance through the darkness!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As probable as a ghost winning a hot dog eating contest. Never full!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as good as finding a unicorn at a unicorn convention. Gather the herd!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as a zombie winning a footrace. Shuffle to the finish line!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Slimmer than a vampire's chances of getting a suntan. Stay in the moonlight!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a ghostbuster at a séance. Call in the professionals!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The future's brighter than a haunted house with solar panels. Power up!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As probable as a zombie winning a staring contest. The eyes have it!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as good as finding a leprechaun at a St. Patrick's Day parade. Follow the rainbow!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as a witch casting a spell of good fortune. Brew up some luck!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Slimmer than a skeleton's waistline after a diet of dust. Bone thin!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a genie in a bottle of ketchup. Make a wish and savor the flavor!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The future's brighter than a poltergeist's disco ball. Bust a move!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As probable as a ghost winning a beauty pageant. Dead gorgeous!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as good as finding a unicorn at a unicorn convention. Gather the herd!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as a zombie winning a footrace. Shuffle to the finish line!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Slimmer than a vampire's chances of getting a suntan. Stay in the moonlight!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a ghostbuster at a séance. Call in the professionals!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The future's brighter than a haunted house with solar panels. Power up!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As probable as a zombie winning a staring contest. The eyes have it!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as good as finding a leprechaun at a St. Patrick's Day parade. Follow the rainbow!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as a witch casting a spell of good fortune. Brew up some luck!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Slimmer than a skeleton's waistline after a diet of dust. Bone thin!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a genie in a bottle of ketchup. Make a wish and savor the flavor!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The future's brighter than a poltergeist's disco ball. Bust a move!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As probable as a ghost winning a beauty pageant. Dead gorgeous!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as good as finding a unicorn at a unicorn convention. Gather the herd!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as a zombie winning a footrace. Shuffle to the finish line!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Slimmer than a vampire's chances of getting a suntan. Stay in the moonlight!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a ghostbuster at a séance. Call in the professionals!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The future's brighter than a haunted house with solar panels. Power up!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As probable as a zombie winning a staring contest. The eyes have it!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as good as finding a leprechaun at a St. Patrick's Day parade. Follow the rainbow!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as a witch casting a spell of good fortune. Brew up some luck!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Slimmer than a skeleton's waistline after a diet of dust. Bone thin!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a genie in a bottle of ketchup. Make a wish and savor the flavor!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The future's brighter than a poltergeist's disco ball. Bust a move!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As probable as a ghost winning a beauty pageant. Dead gorgeous!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as good as finding a unicorn at a unicorn convention. Gather the herd!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as a zombie winning a footrace. Shuffle to the finish line!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Slimmer than a vampire's chances of getting a suntan. Stay in the moonlight!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a ghostbuster at a séance. Call in the professionals!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The future's brighter than a haunted house with solar panels. Power up!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As probable as a zombie winning a staring contest. The eyes have it!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as good as finding a leprechaun at a St. Patrick's Day parade. Follow the rainbow!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as a witch casting a spell of good fortune. Brew up some luck!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Slimmer than a skeleton's waistline after a diet of dust. Bone thin!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a genie in a bottle of ketchup. Make a wish and savor the flavor!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The future's brighter than a poltergeist's disco ball. Bust a move!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As probable as a ghost winning a beauty pageant. Dead gorgeous!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as good as finding a unicorn at a unicorn convention. Gather the herd!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as a zombie winning a footrace. Shuffle to the finish line!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Slimmer than a vampire's chances of getting a suntan. Stay in the moonlight!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a ghostbuster at a séance. Call in the professionals!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The future's brighter than a haunted house with solar panels. Power up!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As probable as a zombie winning a staring contest. The eyes have it!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as good as finding a leprechaun at a St. Patrick's Day parade. Follow the rainbow!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as a witch casting a spell of good fortune. Brew up some luck!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Slimmer than a skeleton's waistline after a diet of dust. Bone thin!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a genie in a bottle of ketchup. Make a wish and savor the flavor!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The future's brighter than a poltergeist's disco ball. Bust a move!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As probable as a ghost winning a beauty pageant. Dead gorgeous!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as good as finding a unicorn at a unicorn convention. Gather the herd!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as a zombie winning a footrace. Shuffle to the finish line!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Slimmer than a vampire's chances of getting a suntan. Stay in the moonlight!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a ghostbuster at a séance. Call in the professionals!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The future's brighter than a haunted house with solar panels. Power up!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As probable as a zombie winning a staring contest. The eyes have it!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as good as finding a leprechaun at a St. Patrick's Day parade. Follow the rainbow!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as a witch casting a spell of good fortune. Brew up some luck!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Slimmer than a skeleton's waistline after a diet of dust. Bone thin!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a genie in a bottle of ketchup. Make a wish and savor the flavor!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The future's brighter than a poltergeist's disco ball. Bust a move!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As probable as a ghost winning a beauty pageant. Dead gorgeous!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "As likely as finding a needle in a haystack while blindfolded. Good luck poking yourself!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "About as probable as winning a dance-off against a disco-loving octopus. Get your groove on!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a vegetarian at a barbecue. Don't hold your breath!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a unicorn riding a skateboard. Keep dreaming!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as getting rich by collecting pennies from the sidewalk. Watch out for loose change!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As probable as finding a unicorn at a rodeo. Saddle up for disappointment!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a mermaid with legs. Dive deeper!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The odds are as good as winning a staring contest against a statue. Don't blink!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a genie in a bottle of expired ketchup. Make a wish... and pray!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding Bigfoot's shoe size. Keep searching!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a cat to take up swimming lessons. Good luck with the floaties!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a pirate with a fear of parrots. Avast, me hearties!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a leprechaun's pot of gold in a penny jar. Keep tossing!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The chances are as good as teaching a goldfish to tap dance. Step to the rhythm!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a vampire working the day shift at a blood bank. Fang-tastic!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a superhero at a supervillain convention. Keep an eye out for capes!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a zombie to join a marathon. Lace up those running shoes!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a ghost afraid of the dark. Boo-hoo!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a Jedi knight at a Star Trek convention. Live long and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The odds are as good as winning a debate with a toddler. Prepare for the cuteness overload!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a unicorn with stage fright. Shine the spotlight!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a knight in shining armor at a medieval theme park. Quest on!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a ghost to take up skydiving. Dive into the afterlife!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a werewolf with a fear of full moons. Howl at the challenge!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a genie granting wishes for free. Rub away!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The chances are as good as convincing a sloth to join a sprinting competition. Slow and steady wins the race!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a witch allergic to broomsticks. Fly, my pretties!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a ninja at a pajama party. Stay stealthy!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a dragon to blow bubbles instead of fire. Watch the sparks fly!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a superhero afraid of heights. Up, up, and away!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a pirate with a treasure map tattooed on their chest. X marks the spot!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The odds are as good as winning a staring contest with Medusa. Don't stare too long!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a leprechaun with a pot of gold at the end of a rainbow. Chase the rainbow!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a yeti wearing flip-flops in the snow. Chill out and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a mummy to trade bandages for beachwear. Unwrap the fun!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a ghost without unfinished business. Haunt away!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a vampire at a garlic festival. Keep the cloves handy!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The chances are as good as convincing a zombie to open a dance studio. Bust a move... or limb!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a unicorn in a herd of donkeys. Neigh-sayer!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a superhero with a fear of capes. Embrace the power!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a werewolf to join a fur-free fashion show. Let your fur fly!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a ghost in a haunted house. Spooky, right?"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a genie granting wishes without fine print. Read between the lines!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The odds are as good as winning a game of hide and seek with a chameleon. Camo on!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a leprechaun without a pot of gold. Follow the rainbow road!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a ninja at a neon party. Blend in and seek!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a dragon to take up knitting instead of fire-breathing. Get crafty!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a superhero with a fear of spandex. It's a stretch!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a pirate without a peg leg. Yo ho ho and search the sea!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The chances are as good as convincing a sloth to break the world speed record. Slow and steady!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a witch without a cauldron. Stir up some trouble!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a ninja at a noisy concert. Stealth mode activated!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a dragon to breathe confetti instead of fire. Party on!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a superhero without a secret identity. Unmask the truth!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a pirate without a parrot. Avast, me hearties, and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The odds are as good as winning a race against a tortoise. Slow and steady!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a leprechaun without a pot of gold. Chase the rainbow!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a yeti at a beach party. Sunscreen and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a mummy to take up skydiving. Unwrap the adventure!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a ghost in a graveyard. Spook-tacular!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a vampire without a fear of garlic. Stay fragrant and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The chances are as good as winning a staring contest with a statue. Don't blink!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a werewolf without a fear of silver. Silver bullet, anyone?"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a superhero without a cape. Embrace the power!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a zombie to join a flash mob. Dance, undead, dance!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a ghost without unfinished business. Haunt away!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a genie granting wishes without loopholes. Rub away and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The odds are as good as winning a game of hide and seek with a chameleon. Camo on!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a leprechaun without a pot of gold. Follow the rainbow road!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a ninja at a neon party. Blend in and seek!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a dragon to take up knitting instead of fire-breathing. Get crafty!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a superhero with a fear of spandex. It's a stretch!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a pirate without a peg leg. Yo ho ho and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The chances are as good as convincing a sloth to break the world speed record. Slow and steady!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a witch without a cauldron. Stir up some trouble!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a ninja at a noisy concert. Stealth mode activated!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a dragon to breathe confetti instead of fire. Party on!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a superhero without a secret identity. Unmask the truth!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a pirate without a parrot. Avast, me hearties, and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The odds are as good as winning a race against a tortoise. Slow and steady!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a leprechaun without a pot of gold. Chase the rainbow!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a yeti at a beach party. Sunscreen and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a mummy to take up skydiving. Unwrap the adventure!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a ghost in a graveyard. Spook-tacular!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a vampire without a fear of garlic. Stay fragrant and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The chances are as good as winning a staring contest with a statue. Don't blink!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a werewolf without a fear of silver. Silver bullet, anyone?"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a superhero without a cape. Embrace the power!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a zombie to join a flash mob. Dance, undead, dance!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a ghost without unfinished business. Haunt away!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a genie granting wishes without loopholes. Rub away and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The odds are as good as winning a game of hide and seek with a chameleon. Camo on!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a leprechaun without a pot of gold. Follow the rainbow road!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a ninja at a neon party. Blend in and seek!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a dragon to take up knitting instead of fire-breathing. Get crafty!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a superhero with a fear of spandex. It's a stretch!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a pirate without a peg leg. Yo ho ho and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The chances are as good as convincing a sloth to break the world speed record. Slow and steady!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a witch without a cauldron. Stir up some trouble!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a ninja at a noisy concert. Stealth mode activated!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a dragon to breathe confetti instead of fire. Party on!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a superhero without a secret identity. Unmask the truth!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a pirate without a parrot. Avast, me hearties, and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The odds are as good as winning a race against a tortoise. Slow and steady!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a leprechaun without a pot of gold. Chase the rainbow!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a yeti at a beach party. Sunscreen and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a mummy to take up skydiving. Unwrap the adventure!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a ghost in a graveyard. Spook-tacular!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a vampire without a fear of garlic. Stay fragrant and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The chances are as good as winning a staring contest with a statue. Don't blink!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a werewolf without a fear of silver. Silver bullet, anyone?"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a superhero without a cape. Embrace the power!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a zombie to join a flash mob. Dance, undead, dance!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a ghost without unfinished business. Haunt away!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a genie granting wishes without loopholes. Rub away and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The odds are as good as winning a game of hide and seek with a chameleon. Camo on!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a leprechaun without a pot of gold. Follow the rainbow road!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a ninja at a neon party. Blend in and seek!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a dragon to take up knitting instead of fire-breathing. Get crafty!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a superhero with a fear of spandex. It's a stretch!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a pirate without a peg leg. Yo ho ho and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The chances are as good as convincing a sloth to break the world speed record. Slow and steady!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a witch without a cauldron. Stir up some trouble!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a ninja at a noisy concert. Stealth mode activated!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a dragon to breathe confetti instead of fire. Party on!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a superhero without a secret identity. Unmask the truth!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a pirate without a parrot. Avast, me hearties, and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The odds are as good as winning a race against a tortoise. Slow and steady!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a leprechaun without a pot of gold. Chase the rainbow!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a yeti at a beach party. Sunscreen and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a mummy to take up skydiving. Unwrap the adventure!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a ghost in a graveyard. Spook-tacular!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a vampire without a fear of garlic. Stay fragrant and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The chances are as good as winning a staring contest with a statue. Don't blink!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a werewolf without a fear of silver. Silver bullet, anyone?"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a superhero without a cape. Embrace the power!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a zombie to join a flash mob. Dance, undead, dance!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a ghost without unfinished business. Haunt away!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a genie granting wishes without loopholes. Rub away and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The odds are as good as winning a game of hide and seek with a chameleon. Camo on!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a leprechaun without a pot of gold. Follow the rainbow road!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a ninja at a neon party. Blend in and seek!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a dragon to take up knitting instead of fire-breathing. Get crafty!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a superhero with a fear of spandex. It's a stretch!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a pirate without a peg leg. Yo ho ho and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The chances are as good as convincing a sloth to break the world speed record. Slow and steady!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a witch without a cauldron. Stir up some trouble!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a ninja at a noisy concert. Stealth mode activated!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a dragon to breathe confetti instead of fire. Party on!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a superhero without a secret identity. Unmask the truth!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a pirate without a parrot. Avast, me hearties, and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The odds are as good as winning a race against a tortoise. Slow and steady!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a leprechaun without a pot of gold. Chase the rainbow!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a yeti at a beach party. Sunscreen and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a mummy to take up skydiving. Unwrap the adventure!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a ghost in a graveyard. Spook-tacular!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a vampire without a fear of garlic. Stay fragrant and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The chances are as good as winning a staring contest with a statue. Don't blink!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a werewolf without a fear of silver. Silver bullet, anyone?"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a superhero without a cape. Embrace the power!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a zombie to join a flash mob. Dance, undead, dance!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a ghost without unfinished business. Haunt away!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a genie granting wishes without loopholes. Rub away and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The odds are as good as winning a game of hide and seek with a chameleon. Camo on!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a leprechaun without a pot of gold. Follow the rainbow road!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a ninja at a neon party. Blend in and seek!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a dragon to take up knitting instead of fire-breathing. Get crafty!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a superhero with a fear of spandex. It's a stretch!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a pirate without a peg leg. Yo ho ho and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The chances are as good as convincing a sloth to break the world speed record. Slow and steady!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a witch without a cauldron. Stir up some trouble!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a ninja at a noisy concert. Stealth mode activated!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a dragon to breathe confetti instead of fire. Party on!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a superhero without a secret identity. Unmask the truth!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a pirate without a parrot. Avast, me hearties, and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The odds are as good as winning a race against a tortoise. Slow and steady!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a leprechaun without a pot of gold. Chase the rainbow!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a yeti at a beach party. Sunscreen and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a mummy to take up skydiving. Unwrap the adventure!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a ghost in a graveyard. Spook-tacular!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a vampire without a fear of garlic. Stay fragrant and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The chances are as good as winning a staring contest with a statue. Don't blink!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a werewolf without a fear of silver. Silver bullet, anyone?"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a superhero without a cape. Embrace the power!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a zombie to join a flash mob. Dance, undead, dance!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a ghost without unfinished business. Haunt away!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a genie granting wishes without loopholes. Rub away and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The odds are as good as winning a game of hide and seek with a chameleon. Camo on!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a leprechaun without a pot of gold. Follow the rainbow road!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a ninja at a neon party. Blend in and seek!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a dragon to take up knitting instead of fire-breathing. Get crafty!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a superhero with a fear of spandex. It's a stretch!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a pirate without a peg leg. Yo ho ho and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The chances are as good as convincing a sloth to break the world speed record. Slow and steady!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a witch without a cauldron. Stir up some trouble!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a ninja at a noisy concert. Stealth mode activated!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a dragon to breathe confetti instead of fire. Party on!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a superhero without a secret identity. Unmask the truth!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a pirate without a parrot. Avast, me hearties, and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The odds are as good as winning a race against a tortoise. Slow and steady!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a leprechaun without a pot of gold. Chase the rainbow!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a yeti at a beach party. Sunscreen and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a mummy to take up skydiving. Unwrap the adventure!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a ghost in a graveyard. Spook-tacular!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a vampire without a fear of garlic. Stay fragrant and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The chances are as good as winning a staring contest with a statue. Don't blink!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a werewolf without a fear of silver. Silver bullet, anyone?"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a superhero without a cape. Embrace the power!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a zombie to join a flash mob. Dance, undead, dance!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a ghost without unfinished business. Haunt away!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a genie granting wishes without loopholes. Rub away and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The odds are as good as winning a game of hide and seek with a chameleon. Camo on!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a leprechaun without a pot of gold. Follow the rainbow road!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a ninja at a neon party. Blend in and seek!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a dragon to take up knitting instead of fire-breathing. Get crafty!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a superhero with a fear of spandex. It's a stretch!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a pirate without a peg leg. Yo ho ho and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The chances are as good as convincing a sloth to break the world speed record. Slow and steady!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a witch without a cauldron. Stir up some trouble!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a ninja at a noisy concert. Stealth mode activated!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a dragon to breathe confetti instead of fire. Party on!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a superhero without a secret identity. Unmask the truth!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a pirate without a parrot. Avast, me hearties, and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The odds are as good as winning a race against a tortoise. Slow and steady!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a leprechaun without a pot of gold. Chase the rainbow!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a yeti at a beach party. Sunscreen and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a mummy to take up skydiving. Unwrap the adventure!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a ghost in a graveyard. Spook-tacular!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a vampire without a fear of garlic. Stay fragrant and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The chances are as good as winning a staring contest with a statue. Don't blink!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a werewolf without a fear of silver. Silver bullet, anyone?"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a superhero without a cape. Embrace the power!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a zombie to join a flash mob. Dance, undead, dance!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a ghost without unfinished business. Haunt away!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a genie granting wishes without loopholes. Rub away and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The odds are as good as winning a game of hide and seek with a chameleon. Camo on!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a leprechaun without a pot of gold. Follow the rainbow road!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a ninja at a neon party. Blend in and seek!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a dragon to take up knitting instead of fire-breathing. Get crafty!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a superhero with a fear of spandex. It's a stretch!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a pirate without a peg leg. Yo ho ho and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The chances are as good as convincing a sloth to break the world speed record. Slow and steady!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a witch without a cauldron. Stir up some trouble!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a ninja at a noisy concert. Stealth mode activated!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a dragon to breathe confetti instead of fire. Party on!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a superhero without a secret identity. Unmask the truth!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a pirate without a parrot. Avast, me hearties, and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The odds are as good as winning a race against a tortoise. Slow and steady!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a leprechaun without a pot of gold. Chase the rainbow!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a yeti at a beach party. Sunscreen and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a mummy to take up skydiving. Unwrap the adventure!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a ghost in a graveyard. Spook-tacular!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a vampire without a fear of garlic. Stay fragrant and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The chances are as good as winning a staring contest with a statue. Don't blink!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a werewolf without a fear of silver. Silver bullet, anyone?"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a superhero without a cape. Embrace the power!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a zombie to join a flash mob. Dance, undead, dance!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a ghost without unfinished business. Haunt away!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a genie granting wishes without loopholes. Rub away and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The odds are as good as winning a game of hide and seek with a chameleon. Camo on!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a leprechaun without a pot of gold. Follow the rainbow road!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a ninja at a neon party. Blend in and seek!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a dragon to take up knitting instead of fire-breathing. Get crafty!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a superhero with a fear of spandex. It's a stretch!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a pirate without a peg leg. Yo ho ho and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The chances are as good as convincing a sloth to break the world speed record. Slow and steady!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a witch without a cauldron. Stir up some trouble!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a ninja at a noisy concert. Stealth mode activated!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a dragon to breathe confetti instead of fire. Party on!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a superhero without a secret identity. Unmask the truth!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a pirate without a parrot. Avast, me hearties, and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The odds are as good as winning a race against a tortoise. Slow and steady!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a leprechaun without a pot of gold. Chase the rainbow!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a yeti at a beach party. Sunscreen and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a mummy to take up skydiving. Unwrap the adventure!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a ghost in a graveyard. Spook-tacular!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a vampire without a fear of garlic. Stay fragrant and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The chances are as good as winning a staring contest with a statue. Don't blink!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a werewolf without a fear of silver. Silver bullet, anyone?"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a superhero without a cape. Embrace the power!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a zombie to join a flash mob. Dance, undead, dance!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a ghost without unfinished business. Haunt away!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a genie granting wishes without loopholes. Rub away and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The odds are as good as winning a game of hide and seek with a chameleon. Camo on!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a leprechaun without a pot of gold. Follow the rainbow road!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a ninja at a neon party. Blend in and seek!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a dragon to take up knitting instead of fire-breathing. Get crafty!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a superhero with a fear of spandex. It's a stretch!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a pirate without a peg leg. Yo ho ho and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The chances are as good as convincing a sloth to break the world speed record. Slow and steady!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a witch without a cauldron. Stir up some trouble!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a ninja at a noisy concert. Stealth mode activated!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a dragon to breathe confetti instead of fire. Party on!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a superhero without a secret identity. Unmask the truth!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a pirate without a parrot. Avast, me hearties, and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The odds are as good as winning a race against a tortoise. Slow and steady!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a leprechaun without a pot of gold. Chase the rainbow!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a yeti at a beach party. Sunscreen and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a mummy to take up skydiving. Unwrap the adventure!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a ghost in a graveyard. Spook-tacular!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a vampire without a fear of garlic. Stay fragrant and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The chances are as good as winning a staring contest with a statue. Don't blink!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a werewolf without a fear of silver. Silver bullet, anyone?"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a superhero without a cape. Embrace the power!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a zombie to join a flash mob. Dance, undead, dance!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a ghost without unfinished business. Haunt away!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a genie granting wishes without loopholes. Rub away and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The odds are as good as winning a game of hide and seek with a chameleon. Camo on!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a leprechaun without a pot of gold. Follow the rainbow road!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a ninja at a neon party. Blend in and seek!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a dragon to take up knitting instead of fire-breathing. Get crafty!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a superhero with a fear of spandex. It's a stretch!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a pirate without a peg leg. Yo ho ho and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The chances are as good as convincing a sloth to break the world speed record. Slow and steady!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a witch without a cauldron. Stir up some trouble!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a ninja at a noisy concert. Stealth mode activated!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a dragon to breathe confetti instead of fire. Party on!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a superhero without a secret identity. Unmask the truth!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a pirate without a parrot. Avast, me hearties, and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The odds are as good as winning a race against a tortoise. Slow and steady!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a leprechaun without a pot of gold. Chase the rainbow!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a yeti at a beach party. Sunscreen and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a mummy to take up skydiving. Unwrap the adventure!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a ghost in a graveyard. Spook-tacular!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a vampire without a fear of garlic. Stay fragrant and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The chances are as good as winning a staring contest with a statue. Don't blink!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a werewolf without a fear of silver. Silver bullet, anyone?"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a superhero without a cape. Embrace the power!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a zombie to join a flash mob. Dance, undead, dance!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a ghost without unfinished business. Haunt away!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a genie granting wishes without loopholes. Rub away and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The odds are as good as winning a game of hide and seek with a chameleon. Camo on!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a leprechaun without a pot of gold. Follow the rainbow road!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a ninja at a neon party. Blend in and seek!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a dragon to take up knitting instead of fire-breathing. Get crafty!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a superhero with a fear of spandex. It's a stretch!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a pirate without a peg leg. Yo ho ho and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The chances are as good as convincing a sloth to break the world speed record. Slow and steady!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a witch without a cauldron. Stir up some trouble!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a ninja at a noisy concert. Stealth mode activated!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a dragon to breathe confetti instead of fire. Party on!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a superhero without a secret identity. Unmask the truth!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a pirate without a parrot. Avast, me hearties, and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The odds are as good as winning a race against a tortoise. Slow and steady!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a leprechaun without a pot of gold. Chase the rainbow!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a yeti at a beach party. Sunscreen and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a mummy to take up skydiving. Unwrap the adventure!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a ghost in a graveyard. Spook-tacular!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a vampire without a fear of garlic. Stay fragrant and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The chances are as good as winning a staring contest with a statue. Don't blink!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a werewolf without a fear of silver. Silver bullet, anyone?"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a superhero without a cape. Embrace the power!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a zombie to join a flash mob. Dance, undead, dance!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a ghost without unfinished business. Haunt away!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a genie granting wishes without loopholes. Rub away and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The odds are as good as winning a game of hide and seek with a chameleon. Camo on!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a leprechaun without a pot of gold. Follow the rainbow road!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a ninja at a neon party. Blend in and seek!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a dragon to take up knitting instead of fire-breathing. Get crafty!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a superhero with a fear of spandex. It's a stretch!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a pirate without a peg leg. Yo ho ho and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The chances are as good as convincing a sloth to break the world speed record. Slow and steady!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a witch without a cauldron. Stir up some trouble!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a ninja at a noisy concert. Stealth mode activated!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a dragon to breathe confetti instead of fire. Party on!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a superhero without a secret identity. Unmask the truth!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a pirate without a parrot. Avast, me hearties, and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The odds are as good as winning a race against a tortoise. Slow and steady!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a leprechaun without a pot of gold. Chase the rainbow!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a yeti at a beach party. Sunscreen and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a mummy to take up skydiving. Unwrap the adventure!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a ghost in a graveyard. Spook-tacular!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a vampire without a fear of garlic. Stay fragrant and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The chances are as good as winning a staring contest with a statue. Don't blink!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a werewolf without a fear of silver. Silver bullet, anyone?"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a superhero without a cape. Embrace the power!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a zombie to join a flash mob. Dance, undead, dance!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a ghost without unfinished business. Haunt away!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a genie granting wishes without loopholes. Rub away and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The odds are as good as winning a game of hide and seek with a chameleon. Camo on!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a leprechaun without a pot of gold. Follow the rainbow road!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a ninja at a neon party. Blend in and seek!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a dragon to take up knitting instead of fire-breathing. Get crafty!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a superhero with a fear of spandex. It's a stretch!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a pirate without a peg leg. Yo ho ho and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The chances are as good as convincing a sloth to break the world speed record. Slow and steady!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a witch without a cauldron. Stir up some trouble!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a ninja at a noisy concert. Stealth mode activated!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a dragon to breathe confetti instead of fire. Party on!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a superhero without a secret identity. Unmask the truth!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a pirate without a parrot. Avast, me hearties, and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The odds are as good as winning a race against a tortoise. Slow and steady!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a leprechaun without a pot of gold. Chase the rainbow!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a yeti at a beach party. Sunscreen and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a mummy to take up skydiving. Unwrap the adventure!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a ghost in a graveyard. Spook-tacular!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a vampire without a fear of garlic. Stay fragrant and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The chances are as good as winning a staring contest with a statue. Don't blink!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a werewolf without a fear of silver. Silver bullet, anyone?"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a superhero without a cape. Embrace the power!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a zombie to join a flash mob. Dance, undead, dance!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a ghost without unfinished business. Haunt away!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a genie granting wishes without loopholes. Rub away and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The odds are as good as winning a game of hide and seek with a chameleon. Camo on!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a leprechaun without a pot of gold. Follow the rainbow road!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a ninja at a neon party. Blend in and seek!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a dragon to take up knitting instead of fire-breathing. Get crafty!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a superhero with a fear of spandex. It's a stretch!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a pirate without a peg leg. Yo ho ho and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The chances are as good as convincing a sloth to break the world speed record. Slow and steady!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a witch without a cauldron. Stir up some trouble!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a ninja at a noisy concert. Stealth mode activated!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a dragon to breathe confetti instead of fire. Party on!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a superhero without a secret identity. Unmask the truth!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a pirate without a parrot. Avast, me hearties, and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The odds are as good as winning a race against a tortoise. Slow and steady!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a leprechaun without a pot of gold. Chase the rainbow!"
   }
 ]
