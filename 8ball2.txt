@@ -138,5 +138,240 @@
     "Voice": "Your Answer",
     "Mood": "Negative",
     "Response": "The odds are worse than a snowman in summer. Melted away!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a mummy to take up skydiving. Unwrap the adventure!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a ghost in a graveyard. Spook-tacular!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a vampire without a fear of garlic. Stay fragrant and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The chances are as good as winning a staring contest with a statue. Don't blink!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a werewolf without a fear of silver. Silver bullet, anyone?"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a superhero without a cape. Embrace the power!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a zombie to join a flash mob. Dance, undead, dance!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a ghost without unfinished business. Haunt away!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a genie granting wishes without loopholes. Rub away and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The odds are as good as winning a game of hide and seek with a chameleon. Camo on!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a leprechaun without a pot of gold. Follow the rainbow road!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a ninja at a neon party. Blend in and seek!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a dragon to take up knitting instead of fire-breathing. Get crafty!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a superhero with a fear of spandex. It's a stretch!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a pirate without a peg leg. Yo ho ho and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The chances are as good as convincing a sloth to break the world speed record. Slow and steady!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a witch without a cauldron. Stir up some trouble!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a ninja at a noisy concert. Stealth mode activated!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a dragon to breathe confetti instead of fire. Party on!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a superhero without a secret identity. Unmask the truth!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a pirate without a parrot. Avast, me hearties, and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The odds are as good as winning a race against a tortoise. Slow and steady!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a leprechaun without a pot of gold. Chase the rainbow!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a yeti at a beach party. Sunscreen and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a mummy to take up skydiving. Unwrap the adventure!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a ghost in a graveyard. Spook-tacular!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a vampire without a fear of garlic. Stay fragrant and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The chances are as good as winning a staring contest with a statue. Don't blink!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a werewolf without a fear of silver. Silver bullet, anyone?"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a superhero without a cape. Embrace the power!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a zombie to join a flash mob. Dance, undead, dance!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a ghost without unfinished business. Haunt away!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a genie granting wishes without loopholes. Rub away and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The odds are as good as winning a game of hide and seek with a chameleon. Camo on!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a leprechaun without a pot of gold. Follow the rainbow road!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a ninja at a neon party. Blend in and seek!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a dragon to take up knitting instead of fire-breathing. Get crafty!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a superhero with a fear of spandex. It's a stretch!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a pirate without a peg leg. Yo ho ho and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The chances are as good as convincing a sloth to break the world speed record. Slow and steady!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a witch without a cauldron. Stir up some trouble!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Chances are as slim as finding a ninja at a noisy concert. Stealth mode activated!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "As likely as convincing a dragon to breathe confetti instead of fire. Party on!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As improbable as finding a superhero without a secret identity. Unmask the truth!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "About as promising as finding a pirate without a parrot. Avast, me hearties, and search!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "The odds are as good as winning a race against a tortoise. Slow and steady!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As unlikely as finding a leprechaun without a pot of gold. Chase the rainbow!"
   }
 ]
