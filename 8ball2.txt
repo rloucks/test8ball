@@ -1,0 +1,1217 @@
+[
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "Absolutely not, you moron!"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "In your wildest dreams, loser."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Do I look like I care? Guess again."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "Sure, if pigs start flying."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As if! Get a grip."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Who cares? Certainly not me."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "Oh please, in what universe?"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Haha, not a chance in hell."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Seriously? I'm not even listening."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "Sure thing, in your parallel universe."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Dream on, buddy. Dream on."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "As if I give a damn. Try harder."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "Yeah, right. Keep dreaming."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "As if the universe cares about your wishes."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Is this a joke? Because I'm not laughing."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "Haha, good one. Next joke, please."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "I'd say 'no', but that would be an insult to 'no'."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "You're still talking? Zzz..."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "Sure, if you're living in a fantasy land."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Not even if you were the last person on Earth."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Did you really just ask me that? Grow up."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "Yes, if you can make miracles happen."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Not today, not ever. Deal with it."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Wow, you're still here? Impressive... not."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "Are you delusional? The answer is no."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Haha, nice try. But no."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "You're still asking? Yawn..."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "Sure, when hell freezes over."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Not in this lifetime, or the next."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Your persistence is almost admirable. Almost."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "If you say so, Captain Obvious."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "I'd rather eat dirt. Hard pass."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Are you done yet? Because I am."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "Yeah, if you're living in a dream world."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "In your dreams, my friend. In your dreams."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Zzz... oh sorry, were you still talking?"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "Sure, if you believe in fairy tales."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Ha! Not in a million years."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Wake me up when you're done. Or don't."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "I'll say yes, when pigs start tap-dancing."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Not happening, champ. Move along."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Are you finished yet? Asking for a friend."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "If wishes were horses, then maybe."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "I'd rather eat my own foot. So, no."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Oh look, a squirrel! Anything but this conversation."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "Sure, if miracles still happen."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Haha, good one. But no."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Can you hurry it up? My coffee's getting cold."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "If you believe in fairy tales, then yes."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Not even in an alternate universe."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Wake me up when you're done. Or don't."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "If you say so. But you're wrong."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "I'm sorry, I thought you were serious."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Can you even hear yourself? Yawn."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "Maybe in your dreams, sweetie."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Haha, keep dreaming."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Oh look, a fly. More interesting than this."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "Sure, if pigs fly tomorrow."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Not even if you bribe me with chocolate."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Are you still talking? I zoned out."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "If you say so, but you're wrong."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Not happening, sunshine. Not happening."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Can you hurry up? I have better things to do."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "If you believe in fairy tales, then yes."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Haha, nice try. But no."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Oh look, a squirrel! Anything but this conversation."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "Sure, if miracles still happen."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Not happening, champ. Move along."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Are you finished yet? Asking for a friend."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "If wishes were horses, then maybe."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "I'd rather eat my own foot. So, no."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Can you hurry it up? My coffee's getting cold."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "If you believe in fairy tales, then yes."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Not even in an alternate universe."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Wake me up when you're done. Or don't."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "If you say so. But you're wrong."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "I'm sorry, I thought you were serious."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Can you even hear yourself? Yawn."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "Maybe in your dreams, sweetie."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Haha, keep dreaming."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Oh look, a fly. More interesting than this."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "Sure, if pigs fly tomorrow."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Not even if you bribe me with chocolate."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Are you still talking? I zoned out."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "If you say so, but you're wrong."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Not happening, sunshine. Not happening."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Can you hurry up? I have better things to do."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "If you believe in miracles, then sure."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "I'm not in the business of granting wishes."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Wake me up when you're done. Or don't."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "If you say so. But you're mistaken."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "I'd rather wrestle a bear. No."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Can you hear that? It's the sound of no one caring."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "Sure, if you're living in a fantasy world."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "The answer is a solid 'nope'."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "This conversation is less fun than watching paint dry."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "If you're into fantasies, then yes."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "I'd rather stick pins in my eyes. So, no."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "If only I cared, maybe then I'd answer."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "Sure, if I suddenly start caring."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Not a chance in the fiery depths of Hades."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Keep talking, maybe one day you'll say something interesting."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "In your dreams, buddy. Literally."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Not even if you had a million bucks."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "This conversation is a waste of time and pixels."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "If the moon turns purple tonight, then maybe."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Nope, not today, not ever."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Please stop. Just... stop."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "Sure, if you're Santa Claus."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Not in this lifetime, pal."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Do you ever stop talking? Asking for a friend."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "I'll say yes when pigs start tap-dancing."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Get real. That's a solid 'no'."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Is there a point to this conversation? Because I'm not seeing it."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "If you believe in fairy tales, then sure."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "You're funny. But no."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "This is less entertaining than watching paint dry."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "Sure, if the world turns upside down."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Not today, not tomorrow, not ever."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Can you stop talking? Please?"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "If wishes were horses, then maybe."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Haha, not happening."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Your persistence is admirable. But futile."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "I'll say yes when pigs fly."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Not even if you paid me. Nope."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Can you get to the point? I have better things to do."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "Sure, when unicorns roam the Earth."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "I'd rather shave my head. So, no."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Do I look like I care? Because I don't."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "If you say so, but you're wrong."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Absolutely not, not now, not ever."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Yawn... can you speed this up?"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "Sure, when pigs learn to sing."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Not happening, my friend. Not happening."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Can you hurry it up? My patience is wearing thin."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "If you're into delusions, then sure."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Haha, nice try. But no."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Can you wrap this up? My lunch break's almost over."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "Sure, if you're living in a dream world."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "In your dreams, pal. In your dreams."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Wake me up when you're done. Or don't."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "If you believe in fairy tales, then yes."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Not happening, champ. Move along."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Are you finished yet? Asking for a friend."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "If wishes were horses, then maybe."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "I'd rather eat my own foot. So, no."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Can you hurry it up? My coffee's getting cold."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "If you believe in fairy tales, then yes."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Not even in an alternate universe."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Wake me up when you're done. Or don't."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "If you say so. But you're wrong."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "I'm sorry, I thought you were serious."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Can you even hear yourself? Yawn."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "Maybe in your dreams, sweetie."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Haha, keep dreaming."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Oh look, a fly. More interesting than this."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "Sure, if pigs fly tomorrow."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Not even if you bribe me with chocolate."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Are you still talking? I zoned out."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "If you say so, but you're wrong."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Not happening, sunshine. Not happening."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Can you hurry up? I have better things to do."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "If you believe in miracles, then sure."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "I'm not in the business of granting wishes."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Wake me up when you're done. Or don't."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "If you say so. But you're mistaken."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "I'd rather wrestle a bear. No."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Can you hear that? It's the sound of no one caring."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "Sure, if you're living in a fantasy world."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "The answer is a solid 'nope'."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "This conversation is less fun than watching paint dry."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "If you're into fantasies, then yes."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "I'd rather stick pins in my eyes. So, no."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "If only I cared, maybe then I'd answer."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "Sure, if I suddenly start caring."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Not a chance in the fiery depths of Hades."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Keep talking, maybe one day you'll say something interesting."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "In your dreams, buddy. Literally."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Not even if you had a million bucks."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "This conversation is a waste of time and pixels."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "If the moon turns purple tonight, then maybe."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Nope, not today, not ever."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Please stop. Just... stop."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "Sure, if you're Santa Claus."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Not in this lifetime, pal."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Do you ever stop talking? Asking for a friend."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "I'll say yes when pigs start tap-dancing."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Get real. That's a solid 'no'."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Is there a point to this conversation? Because I'm not seeing it."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "If you believe in miracles, then sure."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "You're funny. But no."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "This is less entertaining than watching paint dry."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "Sure, if the world turns upside down."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Not today, not tomorrow, not ever."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Can you stop talking? Please?"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "If wishes were horses, then maybe."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Haha, not happening."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Your persistence is admirable. But futile."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "I'll say yes when pigs fly."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Not even if you paid me. Nope."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Can you get to the point? I have better things to do."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "Sure, when unicorns roam the Earth."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "I'd rather shave my head. So, no."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Do I look like I care? Because I don't."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "If you say so, but you're wrong."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Absolutely not, not now, not ever."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Yawn... can you speed this up?"
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "Sure, when pigs learn to sing."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Not happening, my friend. Not happening."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Can you hurry it up? My patience is wearing thin."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "If you're into delusions, then sure."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Haha, nice try. But no."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Can you wrap this up? My lunch break's almost over."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "Sure, if you're living in a dream world."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "In your dreams, pal. In your dreams."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Wake me up when you're done. Or don't."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "If you believe in fairy tales, then yes."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Not happening, champ. Move along."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Are you finished yet? Asking for a friend."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "If wishes were horses, then maybe."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "I'd rather eat my own foot. So, no."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Can you hurry it up? My coffee's getting cold."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "If you believe in fairy tales, then yes."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Not even in an alternate universe."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Wake me up when you're done. Or don't."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "If you say so. But you're wrong."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "I'm sorry, I thought you were serious."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Can you even hear yourself? Yawn."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "Maybe in your dreams, sweetie."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Haha, keep dreaming."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Oh look, a fly. More interesting than this."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "Sure, if pigs fly tomorrow."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Not even if you bribe me with chocolate."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Are you still talking? I zoned out."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "If you say so, but you're wrong."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "Not happening, sunshine. Not happening."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Can you hurry up? I have better things to do."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "If you believe in miracles, then sure."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "I'm not in the business of granting wishes."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Wake me up when you're done. Or don't."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Positive",
+    "Response": "If you say so. But you're mistaken."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Negative",
+    "Response": "I'd rather wrestle a bear. No."
+  },
+  {
+    "Voice": "Your Answer",
+    "Mood": "Neutral",
+    "Response": "Can you hear that? It's the sound of no one caring."
+  }
+]
