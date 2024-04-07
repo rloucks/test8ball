@@ -1032,7 +1032,7 @@
   {
     "Voice": "Your Answer",
     "Mood": "Neutral",
-    "Response": "About as promising as finding a ghostbuster at a séance. Call in the professionals!"
+    "Response": "About as promising as finding a ghostbuster at a sance. Call in the professionals!"
   },
   {
     "Voice": "Your Answer",
@@ -1092,7 +1092,7 @@
   {
     "Voice": "Your Answer",
     "Mood": "Neutral",
-    "Response": "About as promising as finding a ghostbuster at a séance. Call in the professionals!"
+    "Response": "About as promising as finding a ghostbuster at a sance. Call in the professionals!"
   },
   {
     "Voice": "Your Answer",
@@ -1152,7 +1152,7 @@
   {
     "Voice": "Your Answer",
     "Mood": "Neutral",
-    "Response": "About as promising as finding a ghostbuster at a séance. Call in the professionals!"
+    "Response": "About as promising as finding a ghostbuster at a sance. Call in the professionals!"
   },
   {
     "Voice": "Your Answer",
@@ -1327,7 +1327,7 @@
   {
     "Voice": "Your Answer",
     "Mood": "Neutral",
-    "Response": "About as promising as finding a ghostbuster at a séance. Call in the professionals!"
+    "Response": "About as promising as finding a ghostbuster at a sance. Call in the professionals!"
   },
   {
     "Voice": "Your Answer",
