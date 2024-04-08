@@ -863,5 +863,1000 @@
     "Voice": "Your Answer",
     "Mood": "Negative",
     "Response": "As probable as a ghost having a midlife crisis. Boo-hoo!"
+  },
+  {
+    "Voice": "1",
+    "Mood": "Neutral",
+    "Response": "Signs point to... well, who knows?"
+  },
+  {
+    "Voice": "2",
+    "Mood": "Positive",
+    "Response": "Outlook is sunny... or maybe just partly cloudy."
+  },
+  {
+    "Voice": "3",
+    "Mood": "Negative",
+    "Response": "Don't count on it, but hey, stranger things have happened."
+  },
+  {
+    "Voice": "4",
+    "Mood": "Neutral",
+    "Response": "Reply hazy, try again... or don't, I'm not the boss of you."
+  },
+  {
+    "Voice": "5",
+    "Mood": "Negative",
+    "Response": "My sources say no, but what do they know?"
+  },
+  {
+    "Voice": "6",
+    "Mood": "Neutral",
+    "Response": "Concentrate and ask again... or just flip a coin."
+  },
+  {
+    "Voice": "7",
+    "Mood": "Positive",
+    "Response": "The stars say yes... but they've been wrong before."
+  },
+  {
+    "Voice": "8",
+    "Mood": "Negative",
+    "Response": "Outlook not so good, but hey, who needs optimism?"
+  },
+  {
+    "Voice": "9",
+    "Mood": "Positive",
+    "Response": "As I see it, yes... but my crystal ball is a bit fuzzy."
+  },
+  {
+    "Voice": "10",
+    "Mood": "Neutral",
+    "Response": "Cannot predict now, but you could always flip a coin... or ask a friend."
+  },
+  {
+    "Voice": "11",
+    "Mood": "Negative",
+    "Response": "Don't bet on it, unless you're a gambling man... then sure, why not?"
+  },
+  {
+    "Voice": "12",
+    "Mood": "Positive",
+    "Response": "Without a doubt... or with a doubt, who's keeping track?"
+  },
+  {
+    "Voice": "13",
+    "Mood": "Neutral",
+    "Response": "Better not tell you now... or later, it's up to you really."
+  },
+  {
+    "Voice": "14",
+    "Mood": "Negative",
+    "Response": "My reply is no, but maybe you'll get lucky."
+  },
+  {
+    "Voice": "15",
+    "Mood": "Positive",
+    "Response": "You may rely on it... or not, up to you really."
+  },
+  {
+    "Voice": "16",
+    "Mood": "Neutral",
+    "Response": "Ask again later... or ask someone else now, who am I to judge?"
+  },
+  {
+    "Voice": "17",
+    "Mood": "Negative",
+    "Response": "Very doubtful... but hey, stranger things have happened."
+  },
+  {
+    "Voice": "18",
+    "Mood": "Positive",
+    "Response": "It is certain... or maybe not, life's full of surprises."
+  },
+  {
+    "Voice": "19",
+    "Mood": "Neutral",
+    "Response": "My sources say no... but who trusts sources anyway?"
+  },
+  {
+    "Voice": "20",
+    "Mood": "Negative",
+    "Response": "Outlook not so good... but hey, at least you asked, right?"
+  },
+  {
+    "Voice": "21",
+    "Mood": "Positive",
+    "Response": "Yes, definitely... or maybe not, let's keep things interesting."
+  },
+  {
+    "Voice": "22",
+    "Mood": "Neutral",
+    "Response": "Cannot predict now... but why not give it a shot anyway?"
+  },
+  {
+    "Voice": "23",
+    "Mood": "Negative",
+    "Response": "My sources say no... but who listens to sources anyway?"
+  },
+  {
+    "Voice": "24",
+    "Mood": "Positive",
+    "Response": "Most likely... or not, who knows really."
+  },
+  {
+    "Voice": "25",
+    "Mood": "Neutral",
+    "Response": "Better not tell you now... or ever, it's your call."
+  },
+  {
+    "Voice": "26",
+    "Mood": "Negative",
+    "Response": "My reply is no... but let's pretend you never asked."
+  },
+  {
+    "Voice": "27",
+    "Mood": "Positive",
+    "Response": "Yes, definitely... or maybe not, let's keep things spicy."
+  },
+  {
+    "Voice": "28",
+    "Mood": "Neutral",
+    "Response": "Ask again later... or ask someone else, I'm flexible."
+  },
+  {
+    "Voice": "29",
+    "Mood": "Negative",
+    "Response": "Outlook not so good... but at least you tried, right?"
+  },
+  {
+    "Voice": "30",
+    "Mood": "Positive",
+    "Response": "Most likely... or not, it's all a bit of a mystery."
+  },
+  {
+    "Voice": "31",
+    "Mood": "Neutral",
+    "Response": "My sources say no... but who's counting, right?"
+  },
+  {
+    "Voice": "32",
+    "Mood": "Negative",
+    "Response": "My reply is no... but let's just move on, shall we?"
+  },
+  {
+    "Voice": "33",
+    "Mood": "Positive",
+    "Response": "Yes, definitely... or maybe not, let's keep 'em guessing."
+  },
+  {
+    "Voice": "34",
+    "Mood": "Neutral",
+    "Response": "Cannot predict now... but it's not like anyone else can either."
+  },
+  {
+    "Voice": "35",
+    "Mood": "Negative",
+    "Response": "My sources say no... but maybe you're the exception."
+  },
+  {
+    "Voice": "36",
+    "Mood": "Positive",
+    "Response": "Without a doubt... or with a doubt, who's keeping track anyway?"
+  },
+  {
+    "Voice": "37",
+    "Mood": "Neutral",
+    "Response": "Outlook not so good... but hey, stranger things have happened."
+  },
+  {
+    "Voice": "38",
+    "Mood": "Negative",
+    "Response": "Better not tell you now... or ever, let's be honest."
+  },
+  {
+    "Voice": "39",
+    "Mood": "Positive",
+    "Response": "Yes, definitely... or maybe not, let's make life interesting."
+  },
+  {
+    "Voice": "40",
+    "Mood": "Neutral",
+    "Response": "My sources say no... but maybe they're just having a bad day."
+  },
+  {
+    "Voice": "41",
+    "Mood": "Negative",
+    "Response": "Don't count on it... but stranger things have happened."
+  },
+  {
+    "Voice": "42",
+    "Mood": "Positive",
+    "Response": "Signs point to yes... or maybe they don't, who's to say?"
+  },
+  {
+    "Voice": "43",
+    "Mood": "Neutral",
+    "Response": "Cannot predict now... or ever, really."
+  },
+  {
+    "Voice": "44",
+    "Mood": "Negative",
+    "Response": "My reply is no... but who listens to me anyway?"
+  },
+  {
+    "Voice": "45",
+    "Mood": "Positive",
+    "Response": "Outlook is good... or maybe it's just wishful thinking."
+  },
+  {
+    "Voice": "46",
+    "Mood": "Neutral",
+    "Response": "Reply hazy, try again... or don't, I'm not the boss of you."
+  },
+  {
+    "Voice": "47",
+    "Mood": "Negative",
+    "Response": "My sources say no... but who's keeping score?"
+  },
+  {
+    "Voice": "48",
+    "Mood": "Positive",
+    "Response": "The stars say yes... but who really trusts stars anyway?"
+  },
+  {
+    "Voice": "49",
+    "Mood": "Neutral",
+    "Response": "Concentrate and ask again... or just flip a coin, really."
+  },
+  {
+    "Voice": "50",
+    "Mood": "Negative",
+    "Response": "Don't count on it, but hey, stranger things have happened."
+  },
+  {
+    "Voice": "51",
+    "Mood": "Positive",
+    "Response": "Outlook is sunny... or maybe just partly cloudy, who can say?"
+  },
+  {
+    "Voice": "52",
+    "Mood": "Neutral",
+    "Response": "Reply hazy, try again... or just go with the flow, really."
+  },
+  {
+    "Voice": "53",
+    "Mood": "Negative",
+    "Response": "Don't count on it... but then again, who's counting?"
+  },
+  {
+    "Voice": "54",
+    "Mood": "Positive",
+    "Response": "Outlook is good... or maybe not, who can say for sure?"
+  },
+  {
+    "Voice": "55",
+    "Mood": "Neutral",
+    "Response": "My sources say no... but then again, who trusts sources?"
+  },
+  {
+    "Voice": "56",
+    "Mood": "Negative",
+    "Response": "Don't bet on it... but stranger things have happened, right?"
+  },
+  {
+    "Voice": "57",
+    "Mood": "Positive",
+    "Response": "Without a doubt... or with a doubt, who's to say?"
+  },
+  {
+    "Voice": "58",
+    "Mood": "Neutral",
+    "Response": "Better not tell you now... or later, it's up to you really."
+  },
+  {
+    "Voice": "59",
+    "Mood": "Negative",
+    "Response": "My reply is no, but maybe you'll get lucky... who knows?"
+  },
+  {
+    "Voice": "60",
+    "Mood": "Positive",
+    "Response": "The stars say yes... but then again, what do stars know?"
+  },
+  {
+    "Voice": "61",
+    "Mood": "Neutral",
+    "Response": "Cannot predict now, or ever really... but why not ask anyway?"
+  },
+  {
+    "Voice": "62",
+    "Mood": "Negative",
+    "Response": "Outlook not so good... but stranger things have happened."
+  },
+  {
+    "Voice": "63",
+    "Mood": "Positive",
+    "Response": "Yes, definitely... or maybe not, let's keep it interesting."
+  },
+  {
+    "Voice": "64",
+    "Mood": "Neutral",
+    "Response": "Ask again later... or maybe just give up, who knows?"
+  },
+  {
+    "Voice": "65",
+    "Mood": "Negative",
+    "Response": "My sources say no... but then again, sources are overrated."
+  },
+  {
+    "Voice": "66",
+    "Mood": "Positive",
+    "Response": "Outlook is good... or maybe not, let's see what happens."
+  },
+  {
+    "Voice": "67",
+    "Mood": "Neutral",
+    "Response": "My reply is no... but then again, who cares what I say?"
+  },
+  {
+    "Voice": "68",
+    "Mood": "Negative",
+    "Response": "Outlook not so good... but stranger things have happened, right?"
+  },
+  {
+    "Voice": "69",
+    "Mood": "Positive",
+    "Response": "Most likely... or maybe not, life's full of surprises."
+  },
+  {
+    "Voice": "70",
+    "Mood": "Neutral",
+    "Response": "Better not tell you now... or later, up to you really."
+  },
+  {
+    "Voice": "71",
+    "Mood": "Negative",
+    "Response": "My sources say no... but who trusts sources anyway?"
+  },
+  {
+    "Voice": "72",
+    "Mood": "Positive",
+    "Response": "As I see it, yes... or maybe not, let's keep it ambiguous."
+  },
+  {
+    "Voice": "73",
+    "Mood": "Neutral",
+    "Response": "Cannot predict now... or ever, really, it's a mystery."
+  },
+  {
+    "Voice": "74",
+    "Mood": "Negative",
+    "Response": "Don't count on it... but then again, who's counting?"
+  },
+  {
+    "Voice": "75",
+    "Mood": "Positive",
+    "Response": "Outlook is sunny... or maybe just partly cloudy."
+  },
+  {
+    "Voice": "76",
+    "Mood": "Neutral",
+    "Response": "Reply hazy, try again... or just go with the flow."
+  },
+  {
+    "Voice": "77",
+    "Mood": "Negative",
+    "Response": "Don't count on it, but hey, stranger things have happened."
+  },
+  {
+    "Voice": "78",
+    "Mood": "Positive",
+    "Response": "The stars say yes... but then again, what do stars know?"
+  },
+  {
+    "Voice": "79",
+    "Mood": "Neutral",
+    "Response": "Cannot predict now, or ever... but hey, why not try?"
+  },
+  {
+    "Voice": "80",
+    "Mood": "Negative",
+    "Response": "My sources say no... but then again, who listens to sources?"
+  },
+  {
+    "Voice": "81",
+    "Mood": "Positive",
+    "Response": "Outlook is good... or maybe not, let's see what happens."
+  },
+  {
+    "Voice": "82",
+    "Mood": "Neutral",
+    "Response": "Reply hazy, try again... or just flip a coin, really."
+  },
+  {
+    "Voice": "83",
+    "Mood": "Negative",
+    "Response": "Outlook not so good... but hey, at least you asked, right?"
+  },
+  {
+    "Voice": "84",
+    "Mood": "Positive",
+    "Response": "Without a doubt... or with a doubt, who's keeping track?"
+  },
+  {
+    "Voice": "85",
+    "Mood": "Neutral",
+    "Response": "Better not tell you now... or later, it's up to you."
+  },
+  {
+    "Voice": "86",
+    "Mood": "Negative",
+    "Response": "My reply is no... but maybe you'll get lucky."
+  },
+  {
+    "Voice": "87",
+    "Mood": "Positive",
+    "Response": "Most likely... or maybe not, let's make life interesting."
+  },
+  {
+    "Voice": "88",
+    "Mood": "Neutral",
+    "Response": "My sources say no... but who's counting?"
+  },
+  {
+    "Voice": "89",
+    "Mood": "Negative",
+    "Response": "Don't bet on it... but stranger things have happened."
+  },
+  {
+    "Voice": "90",
+    "Mood": "Positive",
+    "Response": "Yes, definitely... or maybe not, let's keep it interesting."
+  },
+  {
+    "Voice": "91",
+    "Mood": "Neutral",
+    "Response": "Cannot predict now, or ever... but hey, why not ask?"
+  },
+  {
+    "Voice": "92",
+    "Mood": "Negative",
+    "Response": "Outlook not so good... but hey, at least you asked, right?"
+  },
+  {
+    "Voice": "93",
+    "Mood": "Positive",
+    "Response": "Most likely... or maybe not, life's full of surprises."
+  },
+  {
+    "Voice": "94",
+    "Mood": "Neutral",
+    "Response": "Better not tell you now... or later, it's up to you."
+  },
+  {
+    "Voice": "95",
+    "Mood": "Negative",
+    "Response": "My reply is no... but maybe you'll get lucky."
+  },
+  {
+    "Voice": "96",
+    "Mood": "Positive",
+    "Response": "The stars say yes... but then again, what do stars know?"
+  },
+  {
+    "Voice": "97",
+    "Mood": "Neutral",
+    "Response": "Cannot predict now, or ever... but hey, why not ask?"
+  },
+  {
+    "Voice": "98",
+    "Mood": "Negative",
+    "Response": "Outlook not so good... but hey, at least you asked, right?"
+  },
+  {
+    "Voice": "99",
+    "Mood": "Positive",
+    "Response": "Most likely... or maybe not, life's full of surprises."
+  },
+  {
+    "Voice": "100",
+    "Mood": "Neutral",
+    "Response": "Better not tell you now... or later, it's up to you."
+  },
+  {
+    "Voice": "101",
+    "Mood": "Negative",
+    "Response": "My reply is no... but maybe you'll get lucky."
+  },
+  {
+    "Voice": "102",
+    "Mood": "Positive",
+    "Response": "The stars say yes... but then again, what do stars know?"
+  },
+  {
+    "Voice": "103",
+    "Mood": "Neutral",
+    "Response": "Cannot predict now, or ever... but hey, why not ask?"
+  },
+  {
+    "Voice": "104",
+    "Mood": "Negative",
+    "Response": "Outlook not so good... but hey, at least you asked, right?"
+  },
+  {
+    "Voice": "105",
+    "Mood": "Positive",
+    "Response": "Most likely... or maybe not, life's full of surprises."
+  },
+  {
+    "Voice": "106",
+    "Mood": "Neutral",
+    "Response": "Better not tell you now... or later, it's up to you."
+  },
+  {
+    "Voice": "107",
+    "Mood": "Negative",
+    "Response": "My reply is no... but maybe you'll get lucky."
+  },
+  {
+    "Voice": "108",
+    "Mood": "Positive",
+    "Response": "The stars say yes... but then again, what do stars know?"
+  },
+  {
+    "Voice": "109",
+    "Mood": "Neutral",
+    "Response": "Cannot predict now, or ever... but hey, why not ask?"
+  },
+  {
+    "Voice": "110",
+    "Mood": "Negative",
+    "Response": "Outlook not so good... but hey, at least you asked, right?"
+  },
+  {
+    "Voice": "111",
+    "Mood": "Positive",
+    "Response": "Most likely... or maybe not, life's full of surprises."
+  },
+  {
+    "Voice": "112",
+    "Mood": "Neutral",
+    "Response": "Better not tell you now... or later, it's up to you."
+  },
+  {
+    "Voice": "113",
+    "Mood": "Negative",
+    "Response": "My reply is no... but maybe you'll get lucky."
+  },
+  {
+    "Voice": "114",
+    "Mood": "Positive",
+    "Response": "The stars say yes... but then again, what do stars know?"
+  },
+  {
+    "Voice": "115",
+    "Mood": "Neutral",
+    "Response": "Cannot predict now, or ever... but hey, why not ask?"
+  },
+  {
+    "Voice": "116",
+    "Mood": "Negative",
+    "Response": "Outlook not so good... but hey, at least you asked, right?"
+  },
+  {
+    "Voice": "117",
+    "Mood": "Positive",
+    "Response": "Most likely... or maybe not, life's full of surprises."
+  },
+  {
+    "Voice": "118",
+    "Mood": "Neutral",
+    "Response": "Better not tell you now... or later, it's up to you."
+  },
+  {
+    "Voice": "119",
+    "Mood": "Negative",
+    "Response": "My reply is no... but maybe you'll get lucky."
+  },
+  {
+    "Voice": "120",
+    "Mood": "Positive",
+    "Response": "The stars say yes... but then again, what do stars know?"
+  },
+  {
+    "Voice": "121",
+    "Mood": "Neutral",
+    "Response": "Cannot predict now, or ever... but hey, why not ask?"
+  },
+  {
+    "Voice": "122",
+    "Mood": "Negative",
+    "Response": "Outlook not so good... but hey, at least you asked, right?"
+  },
+  {
+    "Voice": "123",
+    "Mood": "Positive",
+    "Response": "Most likely... or maybe not, life's full of surprises."
+  },
+  {
+    "Voice": "124",
+    "Mood": "Neutral",
+    "Response": "Better not tell you now... or later, it's up to you."
+  },
+  {
+    "Voice": "125",
+    "Mood": "Negative",
+    "Response": "My reply is no... but maybe you'll get lucky."
+  },
+  {
+    "Voice": "126",
+    "Mood": "Positive",
+    "Response": "The stars say yes... but then again, what do stars know?"
+  },
+  {
+    "Voice": "127",
+    "Mood": "Neutral",
+    "Response": "Cannot predict now, or ever... but hey, why not ask?"
+  },
+  {
+    "Voice": "128",
+    "Mood": "Negative",
+    "Response": "Outlook not so good... but hey, at least you asked, right?"
+  },
+  {
+    "Voice": "129",
+    "Mood": "Positive",
+    "Response": "Most likely... or maybe not, life's full of surprises."
+  },
+  {
+    "Voice": "130",
+    "Mood": "Neutral",
+    "Response": "Better not tell you now... or later, it's up to you."
+  },
+  {
+    "Voice": "131",
+    "Mood": "Negative",
+    "Response": "My reply is no... but maybe you'll get lucky."
+  },
+  {
+    "Voice": "132",
+    "Mood": "Positive",
+    "Response": "The stars say yes... but then again, what do stars know?"
+  },
+  {
+    "Voice": "133",
+    "Mood": "Neutral",
+    "Response": "Cannot predict now, or ever... but hey, why not ask?"
+  },
+  {
+    "Voice": "134",
+    "Mood": "Negative",
+    "Response": "Outlook not so good... but hey, at least you asked, right?"
+  },
+  {
+    "Voice": "135",
+    "Mood": "Positive",
+    "Response": "Most likely... or maybe not, life's full of surprises."
+  },
+  {
+    "Voice": "136",
+    "Mood": "Neutral",
+    "Response": "Better not tell you now... or later, it's up to you."
+  },
+  {
+    "Voice": "137",
+    "Mood": "Negative",
+    "Response": "My reply is no... but maybe you'll get lucky."
+  },
+  {
+    "Voice": "138",
+    "Mood": "Positive",
+    "Response": "The stars say yes... but then again, what do stars know?"
+  },
+  {
+    "Voice": "139",
+    "Mood": "Neutral",
+    "Response": "Cannot predict now, or ever... but hey, why not ask?"
+  },
+  {
+    "Voice": "140",
+    "Mood": "Negative",
+    "Response": "Outlook not so good... but hey, at least you asked, right?"
+  },
+  {
+    "Voice": "141",
+    "Mood": "Positive",
+    "Response": "Most likely... or maybe not, life's full of surprises."
+  },
+  {
+    "Voice": "142",
+    "Mood": "Neutral",
+    "Response": "Better not tell you now... or later, it's up to you."
+  },
+  {
+    "Voice": "143",
+    "Mood": "Negative",
+    "Response": "My reply is no... but maybe you'll get lucky."
+  },
+  {
+    "Voice": "144",
+    "Mood": "Positive",
+    "Response": "The stars say yes... but then again, what do stars know?"
+  },
+  {
+    "Voice": "145",
+    "Mood": "Neutral",
+    "Response": "Cannot predict now, or ever... but hey, why not ask?"
+  },
+  {
+    "Voice": "146",
+    "Mood": "Negative",
+    "Response": "Outlook not so good... but hey, at least you asked, right?"
+  },
+  {
+    "Voice": "147",
+    "Mood": "Positive",
+    "Response": "Most likely... or maybe not, life's full of surprises."
+  },
+  {
+    "Voice": "148",
+    "Mood": "Neutral",
+    "Response": "Better not tell you now... or later, it's up to you."
+  },
+  {
+    "Voice": "149",
+    "Mood": "Negative",
+    "Response": "My reply is no... but maybe you'll get lucky."
+  },
+  {
+    "Voice": "150",
+    "Mood": "Positive",
+    "Response": "The stars say yes... but then again, what do stars know?"
+  },
+  {
+    "Voice": "151",
+    "Mood": "Neutral",
+    "Response": "Cannot predict now, or ever... but hey, why not ask?"
+  },
+  {
+    "Voice": "152",
+    "Mood": "Negative",
+    "Response": "Outlook not so good... but hey, at least you asked, right?"
+  },
+  {
+    "Voice": "153",
+    "Mood": "Positive",
+    "Response": "Most likely... or maybe not, life's full of surprises."
+  },
+  {
+    "Voice": "154",
+    "Mood": "Neutral",
+    "Response": "Better not tell you now... or later, it's up to you."
+  },
+  {
+    "Voice": "155",
+    "Mood": "Negative",
+    "Response": "My reply is no... but maybe you'll get lucky."
+  },
+  {
+    "Voice": "156",
+    "Mood": "Positive",
+    "Response": "The stars say yes... but then again, what do stars know?"
+  },
+  {
+    "Voice": "157",
+    "Mood": "Neutral",
+    "Response": "Cannot predict now, or ever... but hey, why not ask?"
+  },
+  {
+    "Voice": "158",
+    "Mood": "Negative",
+    "Response": "Outlook not so good... but hey, at least you asked, right?"
+  },
+  {
+    "Voice": "159",
+    "Mood": "Positive",
+    "Response": "Most likely... or maybe not, life's full of surprises."
+  },
+  {
+    "Voice": "160",
+    "Mood": "Neutral",
+    "Response": "Better not tell you now... or later, it's up to you."
+  },
+  {
+    "Voice": "161",
+    "Mood": "Negative",
+    "Response": "My reply is no... but maybe you'll get lucky."
+  },
+  {
+    "Voice": "162",
+    "Mood": "Positive",
+    "Response": "The stars say yes... but then again, what do stars know?"
+  },
+  {
+    "Voice": "163",
+    "Mood": "Neutral",
+    "Response": "Cannot predict now, or ever... but hey, why not ask?"
+  },
+  {
+    "Voice": "164",
+    "Mood": "Negative",
+    "Response": "Outlook not so good... but hey, at least you asked, right?"
+  },
+  {
+    "Voice": "165",
+    "Mood": "Positive",
+    "Response": "Most likely... or maybe not, life's full of surprises."
+  },
+  {
+    "Voice": "166",
+    "Mood": "Neutral",
+    "Response": "Better not tell you now... or later, it's up to you."
+  },
+  {
+    "Voice": "167",
+    "Mood": "Negative",
+    "Response": "My reply is no... but maybe you'll get lucky."
+  },
+  {
+    "Voice": "168",
+    "Mood": "Positive",
+    "Response": "The stars say yes... but then again, what do stars know?"
+  },
+  {
+    "Voice": "169",
+    "Mood": "Neutral",
+    "Response": "Cannot predict now, or ever... but hey, why not ask?"
+  },
+  {
+    "Voice": "170",
+    "Mood": "Negative",
+    "Response": "Outlook not so good... but hey, at least you asked, right?"
+  },
+  {
+    "Voice": "171",
+    "Mood": "Positive",
+    "Response": "Most likely... or maybe not, life's full of surprises."
+  },
+  {
+    "Voice": "172",
+    "Mood": "Neutral",
+    "Response": "Better not tell you now... or later, it's up to you."
+  },
+  {
+    "Voice": "173",
+    "Mood": "Negative",
+    "Response": "My reply is no... but maybe you'll get lucky."
+  },
+  {
+    "Voice": "174",
+    "Mood": "Positive",
+    "Response": "The stars say yes... but then again, what do stars know?"
+  },
+  {
+    "Voice": "175",
+    "Mood": "Neutral",
+    "Response": "Cannot predict now, or ever... but hey, why not ask?"
+  },
+  {
+    "Voice": "176",
+    "Mood": "Negative",
+    "Response": "Outlook not so good... but hey, at least you asked, right?"
+  },
+  {
+    "Voice": "177",
+    "Mood": "Positive",
+    "Response": "Most likely... or maybe not, life's full of surprises."
+  },
+  {
+    "Voice": "178",
+    "Mood": "Neutral",
+    "Response": "Better not tell you now... or later, it's up to you."
+  },
+  {
+    "Voice": "179",
+    "Mood": "Negative",
+    "Response": "My reply is no... but maybe you'll get lucky."
+  },
+  {
+    "Voice": "180",
+    "Mood": "Positive",
+    "Response": "The stars say yes... but then again, what do stars know?"
+  },
+  {
+    "Voice": "181",
+    "Mood": "Neutral",
+    "Response": "Cannot predict now, or ever... but hey, why not ask?"
+  },
+  {
+    "Voice": "182",
+    "Mood": "Negative",
+    "Response": "Outlook not so good... but hey, at least you asked, right?"
+  },
+  {
+    "Voice": "183",
+    "Mood": "Positive",
+    "Response": "Most likely... or maybe not, life's full of surprises."
+  },
+  {
+    "Voice": "184",
+    "Mood": "Neutral",
+    "Response": "Better not tell you now... or later, it's up to you."
+  },
+  {
+    "Voice": "185",
+    "Mood": "Negative",
+    "Response": "My reply is no... but maybe you'll get lucky."
+  },
+  {
+    "Voice": "186",
+    "Mood": "Positive",
+    "Response": "The stars say yes... but then again, what do stars know?"
+  },
+  {
+    "Voice": "187",
+    "Mood": "Neutral",
+    "Response": "Cannot predict now, or ever... but hey, why not ask?"
+  },
+  {
+    "Voice": "188",
+    "Mood": "Negative",
+    "Response": "Outlook not so good... but hey, at least you asked, right?"
+  },
+  {
+    "Voice": "189",
+    "Mood": "Positive",
+    "Response": "Most likely... or maybe not, life's full of surprises."
+  },
+  {
+    "Voice": "190",
+    "Mood": "Neutral",
+    "Response": "Better not tell you now... or later, it's up to you."
+  },
+  {
+    "Voice": "191",
+    "Mood": "Negative",
+    "Response": "My reply is no... but maybe you'll get lucky."
+  },
+  {
+    "Voice": "192",
+    "Mood": "Positive",
+    "Response": "The stars say yes... but then again, what do stars know?"
+  },
+  {
+    "Voice": "193",
+    "Mood": "Neutral",
+    "Response": "Cannot predict now, or ever... but hey, why not ask?"
+  },
+  {
+    "Voice": "194",
+    "Mood": "Negative",
+    "Response": "Outlook not so good... but hey, at least you asked, right?"
+  },
+  {
+    "Voice": "195",
+    "Mood": "Positive",
+    "Response": "Most likely... or maybe not, life's full of surprises."
+  },
+  {
+    "Voice": "196",
+    "Mood": "Neutral",
+    "Response": "Better not tell you now... or later, it's up to you."
+  },
+  {
+    "Voice": "197",
+    "Mood": "Negative",
+    "Response": "My reply is no... but maybe you'll get lucky."
+  },
+  {
+    "Voice": "198",
+    "Mood": "Positive",
+    "Response": "The stars say yes... but then again, what do stars know?"
+  },
+  {
+    "Voice": "199",
+    "Mood": "Neutral",
+    "Response": "Cannot predict now, or ever... but hey, why not ask?"
   }
 ]
