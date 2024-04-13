@@ -1234,64 +1234,304 @@
     "Mood": "Negative",
     "Response": "Clouds may obscure the sun, but remember, they're just fluffy obstacles in the sky."
   },
-{"Voice": "1", "Mood": "Positive", "Response": "Your future's gonna be crazier than a reality show where the contestants are ferrets on caffeine, and you're the host trying to keep them from hijacking the catering truck. But hey, at least it's gonna be entertaining!"},
-  {"Voice": "2", "Mood": "Negative", "Response": "Buckle up, because life's about to hit you like a piñata full of surprises, and some of them might be socks without mates."},
-  {"Voice": "3", "Mood": "Neutral", "Response": "Your future is like a game of chess, but with more unexpected moves and fewer people dressed like medieval royalty."},
-  {"Voice": "4", "Mood": "Positive", "Response": "Get ready for a rollercoaster ride through the theme park of destiny, complete with loop-the-loops and cotton candy clouds."},
-  {"Voice": "5", "Mood": "Negative", "Response": "Brace yourself, because the universe is about to throw more curveballs than a clumsy pitcher at a baseball convention."},
-  {"Voice": "6", "Mood": "Neutral", "Response": "Your future is like a choose-your-own-adventure book, but with more pages missing and fewer happy endings."},
-  {"Voice": "7", "Mood": "Positive", "Response": "Love is in the air, and it smells suspiciously like freshly baked cookies. Get ready to fall head over heels into a chocolate chip romance!"},
-  {"Voice": "8", "Mood": "Negative", "Response": "Watch out for rogue sock goblins – they'll steal your socks and your sanity, leaving you with nothing but mismatched footwear and existential dread."},
-  {"Voice": "9", "Mood": "Neutral", "Response": "The universe has a to-do list for you, and it's written in invisible ink. Get ready to improvise, because life's about to get spontaneous!"},
-  {"Voice": "10", "Mood": "Positive", "Response": "Your future is like a rom-com movie, with less Hollywood and more hilarity. Get ready for a laugh-out-loud love story with a quirky twist!"},
-  {"Voice": "11", "Mood": "Negative", "Response": "Dark clouds may gather, but don't worry, you have an umbrella... somewhere. Good luck finding it in the chaos of life's lost and found!"},
-  {"Voice": "12", "Mood": "Neutral", "Response": "Destiny's roadmap is filled with potholes, speed bumps, and the occasional herd of llamas. Get ready for a scenic route through the wilderness of the unknown!"},
-  {"Voice": "13", "Mood": "Positive", "Response": "Your heart will soon be dancing the cha-cha of love, with a side of salsa. Get ready to bust a move on the dance floor of romance!"},
-  {"Voice": "14", "Mood": "Negative", "Response": "Tread carefully, for the path ahead is paved with Legos and existential crises. Get ready to navigate the minefield of life with a sense of humor and sturdy shoes!"},
-  {"Voice": "15", "Mood": "Neutral", "Response": "The cosmic jester is laughing, but don't worry, you're not the punchline... yet. Get ready to join the cosmic comedy club and laugh your way through the ups and downs of life!"},
-  {"Voice": "16", "Mood": "Positive", "Response": "Opportunities are knocking, but they're using the doorbell as a drum kit. Get ready to answer the call of adventure with a rock 'n' roll attitude!"},
-  {"Voice": "17", "Mood": "Negative", "Response": "Beware the allure of the forbidden fruit – it's a slippery slope, quite literally. Get ready to resist temptation and invest in some non-slip shoes!"},
-  {"Voice": "18", "Mood": "Neutral", "Response": "The symphony of fate has some questionable musicians, but hey, at least they're enthusiastic. Get ready for a cacophony of chaos and creativity as the cosmic orchestra plays on!"},
-  {"Voice": "19", "Mood": "Positive", "Response": "Your journey will be like a rollercoaster, with more loop-the-loops and less motion sickness (hopefully). Get ready to scream with delight as you ride the rollercoaster of life!"},
-  {"Voice": "20", "Mood": "Negative", "Response": "The shadows are whispering, but it's probably just gossip about your wardrobe choices. Get ready to strut your stuff and silence the haters with your fabulousness!"},
-  {"Voice": "21", "Mood": "Neutral", "Response": "The cosmic dice are rolling, and they're loaded with surprises and a hint of chaos. Get ready to roll with the punches and play the game of life with a smile on your face!"},
-  {"Voice": "22", "Mood": "Positive", "Response": "Laughter is the secret ingredient in the recipe for your happily ever after. Get ready to sprinkle some laughter into your life and bake up a batch of joy!"},
-  {"Voice": "23", "Mood": "Negative", "Response": "Challenges may arise, but remember, you have a secret weapon... a really bad pun. Get ready to unleash your pun-tastic powers and conquer adversity with humor!"},
-  {"Voice": "24", "Mood": "Neutral", "Response": "The cosmic clock is ticking, but it's probably running on cosmic time, so who knows when it'll go off. Get ready to embrace the unpredictable rhythm of the universe and dance to your own beat!"},
-  {"Voice": "25", "Mood": "Positive", "Response": "Your future is a blank canvas, just waiting for you to doodle on it with the crayons of destiny. Get ready to unleash your inner artist and paint a masterpiece of possibility!"},
-  {"Voice": "26", "Mood": "Negative", "Response": "The road ahead may be bumpy, but at least you have a sturdy pair of metaphorical suspenders. Get ready to hold up your metaphorical pants and keep on truckin' through the ups and downs of life!"},
-  {"Voice": "27", "Mood": "Neutral", "Response": "The cosmic kaleidoscope is spinning, and it's creating patterns that even Picasso would find confusing. Get ready to embrace the kaleidoscope of chaos and find beauty in the madness!"},
-  {"Voice": "28", "Mood": "Positive", "Response": "Love will find you, even if it has to use Google Maps and a megaphone. Get ready to be serenaded by the symphony of romance and swept off your feet by the winds of fate!"},
-  {"Voice": "29", "Mood": "Negative", "Response": "Doubt may creep in, but remember, you have the confidence of a toddler in a tiara. Get ready to channel your inner diva and strut your stuff with unapologetic sass!"},
-  {"Voice": "30", "Mood": "Neutral", "Response": "The cosmic circus is in town, and you've got front-row seats to the greatest show on Earth. Get ready to marvel at the spectacle of life and applaud the acrobatics of destiny!"},
-  {"Voice": "31", "Mood": "Positive", "Response": "The stars are aligning in your favor, like a celestial game of connect-the-dots. Get ready to connect the dots of destiny and discover the constellation of your dreams!"},
-  {"Voice": "32", "Mood": "Negative", "Response": "Turbulent waters may churn, but remember, you're equipped with metaphorical floaties. Get ready to stay afloat in the sea of uncertainty and navigate the waves of change with grace!"},
-  {"Voice": "33", "Mood": "Neutral", "Response": "The cosmic roulette wheel is spinning, and it's placing bets on your behalf (hopefully not all on red). Get ready to roll the dice of destiny and take a gamble on the game of life!"},
-  {"Voice": "34", "Mood": "Positive", "Response": "Your laughter will echo through the halls of destiny, causing cosmic giggles. Get ready to laugh until your sides ache and the universe joins in on the fun!"},
-  {"Voice": "35", "Mood": "Negative", "Response": "Fear not the darkness, for within you burns the light of a thousand glow sticks. Get ready to illuminate the shadows of doubt and shine bright like a cosmic disco ball!"},
-  {"Voice": "36", "Mood": "Neutral", "Response": "The cosmic tea leaves are stirring, but they're mostly just gossiping about other beverages. Get ready to sip on the tea of fate and eavesdrop on the conversations of destiny!"},
-  {"Voice": "37", "Mood": "Positive", "Response": "The dance of destiny beckons, and you're the funky chicken in sequined boots. Get ready to bust a move on the dance floor of life and shake your tail feathers with reckless abandon!"},
-  {"Voice": "38", "Mood": "Negative", "Response": "Storms may rage, but remember, you have a metaphorical umbrella hat. Get ready to stay dry in the downpour of adversity and weather the storm with style!"},
-  {"Voice": "39", "Mood": "Neutral", "Response": "The cosmic oracle is pondering your fate, but it's easily distracted by shiny objects. Get ready to ask the universe a question and receive an answer that's as unpredictable as a cosmic cat chasing a laser pointer!"},
-  {"Voice": "40", "Mood": "Positive", "Response": "Your laughter will light up the darkest of nights, like a disco ball on steroids. Get ready to bring the party to the darkness and dance like nobody's watching (except maybe the cosmic paparazzi)!"},
-  {"Voice": "41", "Mood": "Negative", "Response": "Shadows may lurk, but remember, you're equipped with a cosmic flashlight. Get ready to shine a light on the mysteries of the unknown and banish the shadows of doubt with the power of positivity!"},
-  {"Voice": "42", "Mood": "Neutral", "Response": "The cosmic compass is spinning, and it's pointing in the general direction of 'somewhere over there'. Get ready to follow the compass of destiny and embark on a journey that's more about the adventure than the destination!"},
-  {"Voice": "43", "Mood": "Positive", "Response": "Your heart's desires will soon manifest like magic, with a sprinkle of fairy dust and a dollop of whipped cream. Get ready to make a wish upon a shooting star and watch it come true in a shower of sparkles and smiles!"},
-  {"Voice": "44", "Mood": "Negative", "Response": "Doubt may cloud your path, but trust in the guiding light of your inner disco ball. Get ready to boogie your way through the fog of uncertainty and groove to the rhythm of your own intuition!"},
-  {"Voice": "45", "Mood": "Neutral", "Response": "The cosmic symphony is tuning up, and it sounds suspiciously like a kazoo ensemble. Get ready to march to the beat of the cosmic drum and play your own tune in the grand orchestra of life!"},
-  {"Voice": "46", "Mood": "Positive", "Response": "Your future's gonna be wilder than a safari in a zoo run by monkeys. Get ready to swing from the vines of adventure and dodge the coconut grenades of chaos!"},
-  {"Voice": "47", "Mood": "Negative", "Response": "Life's about to hit you with more plot twists than a soap opera on steroids. Get ready to grab the popcorn and settle in for the drama of the century!"},
-  {"Voice": "48", "Mood": "Neutral", "Response": "The cosmic rollercoaster is revving its engines, and you've got a front-row ticket to the ride of your life. Get ready to scream with excitement and hold on tight as you plunge into the twists and turns of destiny!"},
-  {"Voice": "49", "Mood": "Positive", "Response": "Love's about to sweep you off your feet like a romantic tornado. Get ready to be swept away in a whirlwind of passion and desire!"},
-  {"Voice": "50", "Mood": "Negative", "Response": "The universe is about to throw more curveballs at you than a malfunctioning pitching machine. Get ready to duck and weave as you navigate the minefield of life's surprises!"},
-  {"Voice": "51", "Mood": "Neutral", "Response": "Your future is like a box of chocolates, except half of them are filled with peanut butter and the other half are filled with existential dread. Get ready to take a bite out of life and discover the unexpected flavors of destiny!"},
-  {"Voice": "52", "Mood": "Positive", "Response": "The stars are aligning in your favor, like a celestial conga line dancing to the rhythm of your dreams. Get ready to join the cosmic party and shimmy your way to success!"},
-  {"Voice": "53", "Mood": "Negative", "Response": "Life's about to hit you with more plot twists than a telenovela on fast-forward. Get ready to gasp in shock and awe as the drama unfolds before your eyes!"},
-  {"Voice": "54", "Mood": "Neutral", "Response": "The cosmic puzzle pieces are falling into place, revealing a picture that's both beautiful and bizarre. Get ready to piece together the mysteries of the universe and uncover the hidden truths of your destiny!"},
-  {"Voice": "55", "Mood": "Positive", "Response": "Your future's gonna be brighter than a supernova at a fireworks factory. Get ready to shine like a cosmic beacon and dazzle the universe with your brilliance!"},
-  {"Voice": "56", "Mood": "Negative", "Response": "Life's about to throw more curveballs at you than a baseball pitcher with a vendetta against gravity. Get ready to swing for the fences and hit a home run in the game of life!"},
-  {"Voice": "57", "Mood": "Neutral", "Response": "The cosmic kaleidoscope is spinning, creating patterns that even Salvador Dalí would find perplexing. Get ready to embrace the surreal and journey into the weird and wonderful world of destiny!"},
-  {"Voice": "58", "Mood": "Positive", "Response": "Your heart's about to do the cha-cha of love, with a salsa dip and a tango twist. Get ready to dance to the rhythm of romance and whirl into the arms of destiny!"},
-  {"Voice": "59", "Mood": "Negative", "Response": "Life's about to hit you with more plot twists than a mystery novel written by a conspiracy theorist. Get ready to unravel the enigma of destiny and uncover the truth hidden in the shadows!"},
-  {"Voice": "60", "Mood": "Neutral", "Response": "The cosmic clock is ticking, but it's running on cosmic time, so who knows when it'll strike midnight. Get ready to dance the night away and make the most of every moment in the cosmic ballroom of life!"}
+  {
+    "Voice": "1",
+    "Mood": "Positive",
+    "Response": "Your future's gonna be crazier than a reality show where the contestants are ferrets on caffeine, and you're the host trying to keep them from hijacking the catering truck. But hey, at least it's gonna be entertaining!"
+  },
+  {
+    "Voice": "2",
+    "Mood": "Negative",
+    "Response": "Buckle up, because life's about to hit you like a piñata full of surprises, and some of them might be socks without mates."
+  },
+  {
+    "Voice": "3",
+    "Mood": "Neutral",
+    "Response": "Your future is like a game of chess, but with more unexpected moves and fewer people dressed like medieval royalty."
+  },
+  {
+    "Voice": "4",
+    "Mood": "Positive",
+    "Response": "Get ready for a rollercoaster ride through the theme park of destiny, complete with loop-the-loops and cotton candy clouds."
+  },
+  {
+    "Voice": "5",
+    "Mood": "Negative",
+    "Response": "Brace yourself, because the universe is about to throw more curveballs than a clumsy pitcher at a baseball convention."
+  },
+  {
+    "Voice": "6",
+    "Mood": "Neutral",
+    "Response": "Your future is like a choose-your-own-adventure book, but with more pages missing and fewer happy endings."
+  },
+  {
+    "Voice": "7",
+    "Mood": "Positive",
+    "Response": "Love is in the air, and it smells suspiciously like freshly baked cookies. Get ready to fall head over heels into a chocolate chip romance!"
+  },
+  {
+    "Voice": "8",
+    "Mood": "Negative",
+    "Response": "Watch out for rogue sock goblins – they'll steal your socks and your sanity, leaving you with nothing but mismatched footwear and existential dread."
+  },
+  {
+    "Voice": "9",
+    "Mood": "Neutral",
+    "Response": "The universe has a to-do list for you, and it's written in invisible ink. Get ready to improvise, because life's about to get spontaneous!"
+  },
+  {
+    "Voice": "10",
+    "Mood": "Positive",
+    "Response": "Your future is like a rom-com movie, with less Hollywood and more hilarity. Get ready for a laugh-out-loud love story with a quirky twist!"
+  },
+  {
+    "Voice": "11",
+    "Mood": "Negative",
+    "Response": "Dark clouds may gather, but don't worry, you have an umbrella... somewhere. Good luck finding it in the chaos of life's lost and found!"
+  },
+  {
+    "Voice": "12",
+    "Mood": "Neutral",
+    "Response": "Destiny's roadmap is filled with potholes, speed bumps, and the occasional herd of llamas. Get ready for a scenic route through the wilderness of the unknown!"
+  },
+  {
+    "Voice": "13",
+    "Mood": "Positive",
+    "Response": "Your heart will soon be dancing the cha-cha of love, with a side of salsa. Get ready to bust a move on the dance floor of romance!"
+  },
+  {
+    "Voice": "14",
+    "Mood": "Negative",
+    "Response": "Tread carefully, for the path ahead is paved with Legos and existential crises. Get ready to navigate the minefield of life with a sense of humor and sturdy shoes!"
+  },
+  {
+    "Voice": "15",
+    "Mood": "Neutral",
+    "Response": "The cosmic jester is laughing, but don't worry, you're not the punchline... yet. Get ready to join the cosmic comedy club and laugh your way through the ups and downs of life!"
+  },
+  {
+    "Voice": "16",
+    "Mood": "Positive",
+    "Response": "Opportunities are knocking, but they're using the doorbell as a drum kit. Get ready to answer the call of adventure with a rock 'n' roll attitude!"
+  },
+  {
+    "Voice": "17",
+    "Mood": "Negative",
+    "Response": "Beware the allure of the forbidden fruit – it's a slippery slope, quite literally. Get ready to resist temptation and invest in some non-slip shoes!"
+  },
+  {
+    "Voice": "18",
+    "Mood": "Neutral",
+    "Response": "The symphony of fate has some questionable musicians, but hey, at least they're enthusiastic. Get ready for a cacophony of chaos and creativity as the cosmic orchestra plays on!"
+  },
+  {
+    "Voice": "19",
+    "Mood": "Positive",
+    "Response": "Your journey will be like a rollercoaster, with more loop-the-loops and less motion sickness (hopefully). Get ready to scream with delight as you ride the rollercoaster of life!"
+  },
+  {
+    "Voice": "20",
+    "Mood": "Negative",
+    "Response": "The shadows are whispering, but it's probably just gossip about your wardrobe choices. Get ready to strut your stuff and silence the haters with your fabulousness!"
+  },
+  {
+    "Voice": "21",
+    "Mood": "Neutral",
+    "Response": "The cosmic dice are rolling, and they're loaded with surprises and a hint of chaos. Get ready to roll with the punches and play the game of life with a smile on your face!"
+  },
+  {
+    "Voice": "22",
+    "Mood": "Positive",
+    "Response": "Laughter is the secret ingredient in the recipe for your happily ever after. Get ready to sprinkle some laughter into your life and bake up a batch of joy!"
+  },
+  {
+    "Voice": "23",
+    "Mood": "Negative",
+    "Response": "Challenges may arise, but remember, you have a secret weapon... a really bad pun. Get ready to unleash your pun-tastic powers and conquer adversity with humor!"
+  },
+  {
+    "Voice": "24",
+    "Mood": "Neutral",
+    "Response": "The cosmic clock is ticking, but it's probably running on cosmic time, so who knows when it'll go off. Get ready to embrace the unpredictable rhythm of the universe and dance to your own beat!"
+  },
+  {
+    "Voice": "25",
+    "Mood": "Positive",
+    "Response": "Your future is a blank canvas, just waiting for you to doodle on it with the crayons of destiny. Get ready to unleash your inner artist and paint a masterpiece of possibility!"
+  },
+  {
+    "Voice": "26",
+    "Mood": "Negative",
+    "Response": "The road ahead may be bumpy, but at least you have a sturdy pair of metaphorical suspenders. Get ready to hold up your metaphorical pants and keep on truckin' through the ups and downs of life!"
+  },
+  {
+    "Voice": "27",
+    "Mood": "Neutral",
+    "Response": "The cosmic kaleidoscope is spinning, and it's creating patterns that even Picasso would find confusing. Get ready to embrace the kaleidoscope of chaos and find beauty in the madness!"
+  },
+  {
+    "Voice": "28",
+    "Mood": "Positive",
+    "Response": "Love will find you, even if it has to use Google Maps and a megaphone. Get ready to be serenaded by the symphony of romance and swept off your feet by the winds of fate!"
+  },
+  {
+    "Voice": "29",
+    "Mood": "Negative",
+    "Response": "Doubt may creep in, but remember, you have the confidence of a toddler in a tiara. Get ready to channel your inner diva and strut your stuff with unapologetic sass!"
+  },
+  {
+    "Voice": "30",
+    "Mood": "Neutral",
+    "Response": "The cosmic circus is in town, and you've got front-row seats to the greatest show on Earth. Get ready to marvel at the spectacle of life and applaud the acrobatics of destiny!"
+  },
+  {
+    "Voice": "31",
+    "Mood": "Positive",
+    "Response": "The stars are aligning in your favor, like a celestial game of connect-the-dots. Get ready to connect the dots of destiny and discover the constellation of your dreams!"
+  },
+  {
+    "Voice": "32",
+    "Mood": "Negative",
+    "Response": "Turbulent waters may churn, but remember, you're equipped with metaphorical floaties. Get ready to stay afloat in the sea of uncertainty and navigate the waves of change with grace!"
+  },
+  {
+    "Voice": "33",
+    "Mood": "Neutral",
+    "Response": "The cosmic roulette wheel is spinning, and it's placing bets on your behalf (hopefully not all on red). Get ready to roll the dice of destiny and take a gamble on the game of life!"
+  },
+  {
+    "Voice": "34",
+    "Mood": "Positive",
+    "Response": "Your laughter will echo through the halls of destiny, causing cosmic giggles. Get ready to laugh until your sides ache and the universe joins in on the fun!"
+  },
+  {
+    "Voice": "35",
+    "Mood": "Negative",
+    "Response": "Fear not the darkness, for within you burns the light of a thousand glow sticks. Get ready to illuminate the shadows of doubt and shine bright like a cosmic disco ball!"
+  },
+  {
+    "Voice": "36",
+    "Mood": "Neutral",
+    "Response": "The cosmic tea leaves are stirring, but they're mostly just gossiping about other beverages. Get ready to sip on the tea of fate and eavesdrop on the conversations of destiny!"
+  },
+  {
+    "Voice": "37",
+    "Mood": "Positive",
+    "Response": "The dance of destiny beckons, and you're the funky chicken in sequined boots. Get ready to bust a move on the dance floor of life and shake your tail feathers with reckless abandon!"
+  },
+  {
+    "Voice": "38",
+    "Mood": "Negative",
+    "Response": "Storms may rage, but remember, you have a metaphorical umbrella hat. Get ready to stay dry in the downpour of adversity and weather the storm with style!"
+  },
+  {
+    "Voice": "39",
+    "Mood": "Neutral",
+    "Response": "The cosmic oracle is pondering your fate, but it's easily distracted by shiny objects. Get ready to ask the universe a question and receive an answer that's as unpredictable as a cosmic cat chasing a laser pointer!"
+  },
+  {
+    "Voice": "40",
+    "Mood": "Positive",
+    "Response": "Your laughter will light up the darkest of nights, like a disco ball on steroids. Get ready to bring the party to the darkness and dance like nobody's watching (except maybe the cosmic paparazzi)!"
+  },
+  {
+    "Voice": "41",
+    "Mood": "Negative",
+    "Response": "Shadows may lurk, but remember, you're equipped with a cosmic flashlight. Get ready to shine a light on the mysteries of the unknown and banish the shadows of doubt with the power of positivity!"
+  },
+  {
+    "Voice": "42",
+    "Mood": "Neutral",
+    "Response": "The cosmic compass is spinning, and it's pointing in the general direction of 'somewhere over there'. Get ready to follow the compass of destiny and embark on a journey that's more about the adventure than the destination!"
+  },
+  {
+    "Voice": "43",
+    "Mood": "Positive",
+    "Response": "Your heart's desires will soon manifest like magic, with a sprinkle of fairy dust and a dollop of whipped cream. Get ready to make a wish upon a shooting star and watch it come true in a shower of sparkles and smiles!"
+  },
+  {
+    "Voice": "44",
+    "Mood": "Negative",
+    "Response": "Doubt may cloud your path, but trust in the guiding light of your inner disco ball. Get ready to boogie your way through the fog of uncertainty and groove to the rhythm of your own intuition!"
+  },
+  {
+    "Voice": "45",
+    "Mood": "Neutral",
+    "Response": "The cosmic symphony is tuning up, and it sounds suspiciously like a kazoo ensemble. Get ready to march to the beat of the cosmic drum and play your own tune in the grand orchestra of life!"
+  },
+  {
+    "Voice": "46",
+    "Mood": "Positive",
+    "Response": "Your future's gonna be wilder than a safari in a zoo run by monkeys. Get ready to swing from the vines of adventure and dodge the coconut grenades of chaos!"
+  },
+  {
+    "Voice": "47",
+    "Mood": "Negative",
+    "Response": "Life's about to hit you with more plot twists than a soap opera on steroids. Get ready to grab the popcorn and settle in for the drama of the century!"
+  },
+  {
+    "Voice": "48",
+    "Mood": "Neutral",
+    "Response": "The cosmic rollercoaster is revving its engines, and you've got a front-row ticket to the ride of your life. Get ready to scream with excitement and hold on tight as you plunge into the twists and turns of destiny!"
+  },
+  {
+    "Voice": "49",
+    "Mood": "Positive",
+    "Response": "Love's about to sweep you off your feet like a romantic tornado. Get ready to be swept away in a whirlwind of passion and desire!"
+  },
+  {
+    "Voice": "50",
+    "Mood": "Negative",
+    "Response": "The universe is about to throw more curveballs at you than a malfunctioning pitching machine. Get ready to duck and weave as you navigate the minefield of life's surprises!"
+  },
+  {
+    "Voice": "51",
+    "Mood": "Neutral",
+    "Response": "Your future is like a box of chocolates, except half of them are filled with peanut butter and the other half are filled with existential dread. Get ready to take a bite out of life and discover the unexpected flavors of destiny!"
+  },
+  {
+    "Voice": "52",
+    "Mood": "Positive",
+    "Response": "The stars are aligning in your favor, like a celestial conga line dancing to the rhythm of your dreams. Get ready to join the cosmic party and shimmy your way to success!"
+  },
+  {
+    "Voice": "53",
+    "Mood": "Negative",
+    "Response": "Life's about to hit you with more plot twists than a telenovela on fast-forward. Get ready to gasp in shock and awe as the drama unfolds before your eyes!"
+  },
+  {
+    "Voice": "54",
+    "Mood": "Neutral",
+    "Response": "The cosmic puzzle pieces are falling into place, revealing a picture that's both beautiful and bizarre. Get ready to piece together the mysteries of the universe and uncover the hidden truths of your destiny!"
+  },
+  {
+    "Voice": "55",
+    "Mood": "Positive",
+    "Response": "Your future's gonna be brighter than a supernova at a fireworks factory. Get ready to shine like a cosmic beacon and dazzle the universe with your brilliance!"
+  },
+  {
+    "Voice": "56",
+    "Mood": "Negative",
+    "Response": "Life's about to throw more curveballs at you than a baseball pitcher with a vendetta against gravity. Get ready to swing for the fences and hit a home run in the game of life!"
+  },
+  {
+    "Voice": "57",
+    "Mood": "Neutral",
+    "Response": "The cosmic kaleidoscope is spinning, creating patterns that even Salvador Dalí would find perplexing. Get ready to embrace the surreal and journey into the weird and wonderful world of destiny!"
+  },
+  {
+    "Voice": "58",
+    "Mood": "Positive",
+    "Response": "Your heart's about to do the cha-cha of love, with a salsa dip and a tango twist. Get ready to dance to the rhythm of romance and whirl into the arms of destiny!"
+  },
+  {
+    "Voice": "59",
+    "Mood": "Negative",
+    "Response": "Life's about to hit you with more plot twists than a mystery novel written by a conspiracy theorist. Get ready to unravel the enigma of destiny and uncover the truth hidden in the shadows!"
+  },
+  {
+    "Voice": "60",
+    "Mood": "Neutral",
+    "Response": "The cosmic clock is ticking, but it's running on cosmic time, so who knows when it'll strike midnight. Get ready to dance the night away and make the most of every moment in the cosmic ballroom of life!"
+  }
 ]
