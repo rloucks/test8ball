@@ -1533,5 +1533,575 @@
     "Voice": "60",
     "Mood": "Neutral",
     "Response": "The cosmic clock is ticking, but it's running on cosmic time, so who knows when it'll strike midnight. Get ready to dance the night away and make the most of every moment in the cosmic ballroom of life!"
+  },
+  {
+    "Voice": "1",
+    "Mood": "Positive",
+    "Response": "Your future's so bright, it's like a supernova wearing sunglasses."
+  },
+  {
+    "Voice": "2",
+    "Mood": "Negative",
+    "Response": "Watch out for cosmic banana peels; they're plotting against your dignity."
+  },
+  {
+    "Voice": "3",
+    "Mood": "Neutral",
+    "Response": "The universe has a to-do list for you, written in invisible ink."
+  },
+  {
+    "Voice": "4",
+    "Mood": "Positive",
+    "Response": "Get ready to meet someone who makes your heart flutter like a caffeinated butterfly."
+  },
+  {
+    "Voice": "5",
+    "Mood": "Negative",
+    "Response": "Beware of rogue sock goblins – they'll steal your socks and your sanity."
+  },
+  {
+    "Voice": "6",
+    "Mood": "Neutral",
+    "Response": "Fate's GPS is recalculating... and it seems to have a penchant for detours."
+  },
+  {
+    "Voice": "7",
+    "Mood": "Positive",
+    "Response": "Love is in the air, and it smells suspiciously like freshly baked cookies."
+  },
+  {
+    "Voice": "8",
+    "Mood": "Negative",
+    "Response": "Beware the fury of the rubber duck army – their quacks are not to be underestimated."
+  },
+  {
+    "Voice": "9",
+    "Mood": "Neutral",
+    "Response": "The universe is winking at you, but it's using Morse code, so good luck decoding."
+  },
+  {
+    "Voice": "10",
+    "Mood": "Positive",
+    "Response": "Your future is like a rom-com movie, with less Hollywood and more hilarity."
+  },
+  {
+    "Voice": "11",
+    "Mood": "Negative",
+    "Response": "Dark clouds may gather, but don't worry, you have an umbrella... somewhere."
+  },
+  {
+    "Voice": "12",
+    "Mood": "Neutral",
+    "Response": "Destiny's roadmap is filled with potholes, speed bumps, and the occasional herd of llamas."
+  },
+  {
+    "Voice": "13",
+    "Mood": "Positive",
+    "Response": "Your heart will soon be dancing the cha-cha of love, with a side of salsa."
+  },
+  {
+    "Voice": "14",
+    "Mood": "Negative",
+    "Response": "Tread carefully, for the path ahead is paved with Legos and existential crises."
+  },
+  {
+    "Voice": "15",
+    "Mood": "Neutral",
+    "Response": "The cosmic jester is laughing, but don't worry, you're not the punchline... yet."
+  },
+  {
+    "Voice": "16",
+    "Mood": "Positive",
+    "Response": "Opportunities are knocking, but they're using the doorbell as a drum kit."
+  },
+  {
+    "Voice": "17",
+    "Mood": "Negative",
+    "Response": "Beware the allure of the forbidden fruit – it's a slippery slope, quite literally."
+  },
+  {
+    "Voice": "18",
+    "Mood": "Neutral",
+    "Response": "The symphony of fate has some questionable musicians, but hey, at least they're enthusiastic."
+  },
+  {
+    "Voice": "19",
+    "Mood": "Positive",
+    "Response": "Your journey will be like a rollercoaster, with more loop-the-loops and less motion sickness (hopefully)."
+  },
+  {
+    "Voice": "20",
+    "Mood": "Negative",
+    "Response": "The shadows are whispering, but it's probably just gossip about your wardrobe choices."
+  },
+  {
+    "Voice": "21",
+    "Mood": "Neutral",
+    "Response": "The cosmic dice are rolling, and they're loaded with surprises and a hint of chaos."
+  },
+  {
+    "Voice": "22",
+    "Mood": "Positive",
+    "Response": "Laughter is the secret ingredient in the recipe for your happily ever after."
+  },
+  {
+    "Voice": "23",
+    "Mood": "Negative",
+    "Response": "Challenges may arise, but remember, you have a secret weapon... a really bad pun."
+  },
+  {
+    "Voice": "24",
+    "Mood": "Neutral",
+    "Response": "The cosmic clock is ticking, but it's probably running on cosmic time, so who knows when it'll go off."
+  },
+  {
+    "Voice": "25",
+    "Mood": "Positive",
+    "Response": "Your future is a blank canvas, just waiting for you to doodle on it with the crayons of destiny."
+  },
+  {
+    "Voice": "26",
+    "Mood": "Negative",
+    "Response": "The road ahead may be bumpy, but at least you have a sturdy pair of metaphorical suspenders."
+  },
+  {
+    "Voice": "27",
+    "Mood": "Neutral",
+    "Response": "The cosmic kaleidoscope is spinning, and it's creating patterns that even Picasso would find confusing."
+  },
+  {
+    "Voice": "28",
+    "Mood": "Positive",
+    "Response": "Love will find you, even if it has to use Google Maps and a megaphone."
+  },
+  {
+    "Voice": "29",
+    "Mood": "Negative",
+    "Response": "Doubt may creep in, but remember, you have the confidence of a toddler in a tiara."
+  },
+  {
+    "Voice": "30",
+    "Mood": "Neutral",
+    "Response": "The cosmic circus is in town, and you've got front-row seats to the greatest show on Earth."
+  },
+  {
+    "Voice": "31",
+    "Mood": "Positive",
+    "Response": "The stars are aligning in your favor, like a celestial game of connect-the-dots."
+  },
+  {
+    "Voice": "32",
+    "Mood": "Negative",
+    "Response": "Turbulent waters may churn, but remember, you're equipped with metaphorical floaties."
+  },
+  {
+    "Voice": "33",
+    "Mood": "Neutral",
+    "Response": "The cosmic roulette wheel is spinning, and it's placing bets on your behalf (hopefully not all on red)."
+  },
+  {
+    "Voice": "34",
+    "Mood": "Positive",
+    "Response": "Your laughter will echo through the halls of destiny, causing cosmic giggles."
+  },
+  {
+    "Voice": "35",
+    "Mood": "Negative",
+    "Response": "Fear not the darkness, for within you burns the light of a thousand glow sticks."
+  },
+  {
+    "Voice": "36",
+    "Mood": "Neutral",
+    "Response": "The cosmic tea leaves are stirring, but they're mostly just gossiping about other beverages."
+  },
+  {
+    "Voice": "37",
+    "Mood": "Positive",
+    "Response": "The dance of destiny beckons, and you're the funky chicken in sequined boots."
+  },
+  {
+    "Voice": "38",
+    "Mood": "Negative",
+    "Response": "Storms may rage, but remember, you have a metaphorical umbrella hat."
+  },
+  {
+    "Voice": "39",
+    "Mood": "Neutral",
+    "Response": "The cosmic oracle is pondering your fate, but it's easily distracted by shiny objects."
+  },
+  {
+    "Voice": "40",
+    "Mood": "Positive",
+    "Response": "Your laughter will light up the darkest of nights, like a disco ball on steroids."
+  },
+  {
+    "Voice": "41",
+    "Mood": "Negative",
+    "Response": "Shadows may lurk, but remember, you're equipped with a cosmic flashlight."
+  },
+  {
+    "Voice": "42",
+    "Mood": "Neutral",
+    "Response": "The cosmic compass is spinning, and it's pointing in the general direction of 'somewhere over there'."
+  },
+  {
+    "Voice": "43",
+    "Mood": "Positive",
+    "Response": "Your heart's desires will soon manifest like magic, with a sprinkle of fairy dust and a dollop of whipped cream."
+  },
+  {
+    "Voice": "44",
+    "Mood": "Negative",
+    "Response": "Doubt may cloud your path, but trust in the guiding light of your inner disco ball."
+  },
+  {
+    "Voice": "45",
+    "Mood": "Neutral",
+    "Response": "The cosmic symphony is tuning up, and it sounds suspiciously like a kazoo ensemble."
+  },
+  {
+    "Voice": "46",
+    "Mood": "Positive",
+    "Response": "Your future is so bright, it needs SPF 1000 sunscreen."
+  },
+  {
+    "Voice": "47",
+    "Mood": "Negative",
+    "Response": "Clouds may obscure the sun, but remember, they're just fluffy obstacles in the sky."
+  },
+  {
+    "Voice": "48",
+    "Mood": "Neutral",
+    "Response": "The cosmic rollercoaster is gearing up for a wild ride, complete with loop-de-loops and maybe a few nauseating twists."
+  },
+  {
+    "Voice": "49",
+    "Mood": "Positive",
+    "Response": "Get ready for a cosmic party where the stars are the disco balls, and you're the dancing queen."
+  },
+  {
+    "Voice": "50",
+    "Mood": "Negative",
+    "Response": "Beware of cosmic cow pies; they may look innocent, but they're filled with existential questions."
+  },
+  {
+    "Voice": "51",
+    "Mood": "Neutral",
+    "Response": "The universe is brewing up something big for you, like a cosmic cappuccino with extra foam and a sprinkle of stardust."
+  },
+  {
+    "Voice": "52",
+    "Mood": "Positive",
+    "Response": "Love is on the horizon, riding in on a unicorn and armed with a bouquet of cosmic roses."
+  },
+  {
+    "Voice": "53",
+    "Mood": "Negative",
+    "Response": "Be cautious of cosmic traffic jams; they may delay your journey, but they also provide an opportunity for cosmic car karaoke."
+  },
+  {
+    "Voice": "54",
+    "Mood": "Neutral",
+    "Response": "The cosmic clock is ticking, but don't worry, it's probably set to snooze."
+  },
+  {
+    "Voice": "55",
+    "Mood": "Positive",
+    "Response": "Your future is as unpredictable as a squirrel on espresso, but just as exciting."
+  },
+  {
+    "Voice": "56",
+    "Mood": "Negative",
+    "Response": "Beware of cosmic black holes; they may suck you in, but they also offer a shortcut to another dimension."
+  },
+  {
+    "Voice": "57",
+    "Mood": "Neutral",
+    "Response": "The universe is whispering secrets to you, but it's speaking in a language only pigeons understand."
+  },
+  {
+    "Voice": "58",
+    "Mood": "Positive",
+    "Response": "Your heart will soon sing a melody sweeter than cosmic cotton candy."
+  },
+  {
+    "Voice": "59",
+    "Mood": "Negative",
+    "Response": "Don't let cosmic tumbleweeds derail your journey; they may seem harmless, but they're secretly plotting your downfall."
+  },
+  {
+    "Voice": "60",
+    "Mood": "Neutral",
+    "Response": "The cosmic GPS is recalculating your route, but it's also suggesting you stop for intergalactic donuts."
+  },
+  {
+    "Voice": "61",
+    "Mood": "Positive",
+    "Response": "Your laughter will create ripples in the fabric of space-time, causing cosmic chuckles."
+  },
+  {
+    "Voice": "62",
+    "Mood": "Negative",
+    "Response": "Beware of cosmic deja vu; it may feel like you've been here before, but that doesn't mean it won't end differently this time."
+  },
+  {
+    "Voice": "63",
+    "Mood": "Neutral",
+    "Response": "The universe is sending you a message, but it's written in emoji and hieroglyphics."
+  },
+  {
+    "Voice": "64",
+    "Mood": "Positive",
+    "Response": "Love is brewing in the cosmic coffee pot, and it's serving up a double shot of romance."
+  },
+  {
+    "Voice": "65",
+    "Mood": "Negative",
+    "Response": "Be cautious of cosmic quicksand; it may seem harmless at first, but it's a metaphor for procrastination."
+  },
+  {
+    "Voice": "66",
+    "Mood": "Neutral",
+    "Response": "The cosmic symphony is playing your theme song, but it's a bit off-key."
+  },
+  {
+    "Voice": "67",
+    "Mood": "Positive",
+    "Response": "Your future is brighter than a supernova, with just as much spectacle and maybe a little less destruction."
+  },
+  {
+    "Voice": "68",
+    "Mood": "Negative",
+    "Response": "Beware of cosmic pop quizzes; they're designed to test your knowledge of obscure trivia and your ability to panic under pressure."
+  },
+  {
+    "Voice": "69",
+    "Mood": "Neutral",
+    "Response": "The universe is painting your portrait, but it's using finger paints and glitter."
+  },
+  {
+    "Voice": "70",
+    "Mood": "Positive",
+    "Response": "Love is in the cosmic air, and it's intoxicatingly sweet, like cosmic cotton candy."
+  },
+  {
+    "Voice": "71",
+    "Mood": "Negative",
+    "Response": "Be wary of cosmic traffic cones; they may seem innocent, but they're secretly plotting to redirect your destiny."
+  },
+  {
+    "Voice": "72",
+    "Mood": "Neutral",
+    "Response": "The cosmic DJ is spinning your favorite tunes, but it's also taking requests from the ghost of disco past."
+  },
+  {
+    "Voice": "73",
+    "Mood": "Positive",
+    "Response": "Your laughter will light up the cosmos, like a billion fireflies doing the electric slide."
+  },
+  {
+    "Voice": "74",
+    "Mood": "Negative",
+    "Response": "Beware of cosmic snails; they may move slowly, but they leave a trail of existential dread in their wake."
+  },
+  {
+    "Voice": "75",
+    "Mood": "Neutral",
+    "Response": "The universe is playing a game of cosmic charades, and you're the only one who doesn't know the rules."
+  },
+  {
+    "Voice": "76",
+    "Mood": "Positive",
+    "Response": "Your future is as bright as a double rainbow, with twice the magic and four times the spectacle."
+  },
+  {
+    "Voice": "77",
+    "Mood": "Negative",
+    "Response": "Be cautious of cosmic mirages; they may seem like oases in the desert, but they're just illusions created by your own thirst for adventure."
+  },
+  {
+    "Voice": "78",
+    "Mood": "Neutral",
+    "Response": "The cosmic train is leaving the station, but it's also making unscheduled stops for intergalactic ice cream."
+  },
+  {
+    "Voice": "79",
+    "Mood": "Positive",
+    "Response": "Love is on the cosmic menu, and it's serving up a five-course meal of romance, passion, and dessert."
+  },
+  {
+    "Voice": "80",
+    "Mood": "Negative",
+    "Response": "Beware of cosmic tumbleweeds; they may seem harmless, but they're actually just tumbleweeds."
+  },
+  {
+    "Voice": "81",
+    "Mood": "Neutral",
+    "Response": "The universe is sending you a message, but it's written in invisible ink and sealed with a cosmic kiss."
+  },
+  {
+    "Voice": "82",
+    "Mood": "Positive",
+    "Response": "Your laughter will create a ripple effect in the cosmic pond, causing waves of joy to wash over the universe."
+  },
+  {
+    "Voice": "83",
+    "Mood": "Negative",
+    "Response": "Be cautious of cosmic traffic jams; they may delay your journey, but they also provide an opportunity for cosmic car karaoke."
+  },
+  {
+    "Voice": "84",
+    "Mood": "Neutral",
+    "Response": "The cosmic clock is ticking, but don't worry, it's probably set to snooze."
+  },
+  {
+    "Voice": "85",
+    "Mood": "Positive",
+    "Response": "Your future is as unpredictable as a squirrel on espresso, but just as exciting."
+  },
+  {
+    "Voice": "86",
+    "Mood": "Negative",
+    "Response": "Beware of cosmic black holes; they may suck you in, but they also offer a shortcut to another dimension."
+  },
+  {
+    "Voice": "87",
+    "Mood": "Neutral",
+    "Response": "The universe is whispering secrets to you, but it's speaking in a language only pigeons understand."
+  },
+  {
+    "Voice": "88",
+    "Mood": "Positive",
+    "Response": "Your heart will soon sing a melody sweeter than cosmic cotton candy."
+  },
+  {
+    "Voice": "89",
+    "Mood": "Negative",
+    "Response": "Don't let cosmic tumbleweeds derail your journey; they may seem harmless, but they're secretly plotting your downfall."
+  },
+  {
+    "Voice": "90",
+    "Mood": "Neutral",
+    "Response": "The cosmic GPS is recalculating your route, but it's also suggesting you stop for intergalactic donuts."
+  },
+  {
+    "Voice": "91",
+    "Mood": "Positive",
+    "Response": "Your laughter will create ripples in the fabric of space-time, causing cosmic chuckles."
+  },
+  {
+    "Voice": "92",
+    "Mood": "Negative",
+    "Response": "Beware of cosmic deja vu; it may feel like you've been here before, but that doesn't mean it won't end differently this time."
+  },
+  {
+    "Voice": "93",
+    "Mood": "Neutral",
+    "Response": "The universe is sending you a message, but it's written in emoji and hieroglyphics."
+  },
+  {
+    "Voice": "94",
+    "Mood": "Positive",
+    "Response": "Love is brewing in the cosmic coffee pot, and it's serving up a double shot of romance."
+  },
+  {
+    "Voice": "95",
+    "Mood": "Negative",
+    "Response": "Be cautious of cosmic quicksand; it may seem harmless at first, but it's a metaphor for procrastination."
+  },
+  {
+    "Voice": "96",
+    "Mood": "Neutral",
+    "Response": "The cosmic symphony is playing your theme song, but it's a bit off-key."
+  },
+  {
+    "Voice": "97",
+    "Mood": "Positive",
+    "Response": "Your future is brighter than a supernova, with just as much spectacle and maybe a little less destruction."
+  },
+  {
+    "Voice": "98",
+    "Mood": "Negative",
+    "Response": "Beware of cosmic pop quizzes; they're designed to test your knowledge of obscure trivia and your ability to panic under pressure."
+  },
+  {
+    "Voice": "99",
+    "Mood": "Neutral",
+    "Response": "The universe is painting your portrait, but it's using finger paints and glitter."
+  },
+  {
+    "Voice": "100",
+    "Mood": "Positive",
+    "Response": "Love is in the cosmic air, and it's intoxicatingly sweet, like cosmic cotton candy."
+  },
+  {
+    "Voice": "101",
+    "Mood": "Negative",
+    "Response": "Be wary of cosmic traffic cones; they may seem innocent, but they're secretly plotting to redirect your destiny."
+  },
+  {
+    "Voice": "102",
+    "Mood": "Neutral",
+    "Response": "The cosmic DJ is spinning your favorite tunes, but it's also taking requests from the ghost of disco past."
+  },
+  {
+    "Voice": "103",
+    "Mood": "Positive",
+    "Response": "Your laughter will light up the cosmos, like a billion fireflies doing the electric slide."
+  },
+  {
+    "Voice": "104",
+    "Mood": "Negative",
+    "Response": "Beware of cosmic snails; they may move slowly, but they leave a trail of existential dread in their wake."
+  },
+  {
+    "Voice": "105",
+    "Mood": "Neutral",
+    "Response": "The universe is playing a game of cosmic charades, and you're the only one who doesn't know the rules."
+  },
+  {
+    "Voice": "106",
+    "Mood": "Positive",
+    "Response": "Your future is as unpredictable as a squirrel on espresso, but just as exciting."
+  },
+  {
+    "Voice": "107",
+    "Mood": "Negative",
+    "Response": "Beware of cosmic black holes; they may suck you in, but they also offer a shortcut to another dimension."
+  },
+  {
+    "Voice": "108",
+    "Mood": "Neutral",
+    "Response": "The universe is whispering secrets to you, but it's speaking in a language only pigeons understand."
+  },
+  {
+    "Voice": "109",
+    "Mood": "Positive",
+    "Response": "Your heart will soon sing a melody sweeter than cosmic cotton candy."
+  },
+  {
+    "Voice": "110",
+    "Mood": "Negative",
+    "Response": "Don't let cosmic tumbleweeds derail your journey; they may seem harmless, but they're secretly plotting your downfall."
+  },
+  {
+    "Voice": "111",
+    "Mood": "Neutral",
+    "Response": "The cosmic GPS is recalculating your route, but it's also suggesting you stop for intergalactic donuts."
+  },
+  {
+    "Voice": "112",
+    "Mood": "Positive",
+    "Response": "Your laughter will create ripples in the fabric of space-time, causing cosmic chuckles."
+  },
+  {
+    "Voice": "113",
+    "Mood": "Negative",
+    "Response": "Beware of cosmic deja vu; it may feel like you've been here before, but that doesn't mean it won't end differently this time."
+  },
+  {
+    "Voice": "114",
+    "Mood": "Neutral",
+    "Response": "The universe is sending you a message, but it's written in emoji and hieroglyphics."
   }
 ]
